@@ -1,0 +1,1001 @@
+Invoice_ID,Branch,City,Product_Line,Unit_Price,Quantity,Total_Sales,Date,Payment
+INV0001,Bangalore Branch,Bangalore,Electronics,62328.21,2,124656.42,2026-06-12,UPI
+INV0002,Hyderabad Branch,Hyderabad,Clothing,7250.92,4,29003.68,2026-01-07,Debit Card
+INV0003,Bangalore Branch,Bangalore,Electronics,18968.22,1,18968.22,2026-09-03,UPI
+INV0004,Pune Branch,Pune,Electronics,56129.09,2,112258.18,2026-06-16,Cash
+INV0005,Mumbai Branch,Mumbai,Home Appliances,5139.56,3,15418.68,2026-10-09,Credit Card
+INV0006,Chennai Branch,Chennai,Groceries,3883.37,9,34950.33,2026-08-14,UPI
+INV0007,Bangalore Branch,Bangalore,Sports & Fitness,11922.71,2,23845.42,2026-10-15,Debit Card
+INV0008,Bangalore Branch,Bangalore,Groceries,598.21,3,1794.63,2026-06-18,Credit Card
+INV0009,Mumbai Branch,Mumbai,Home Appliances,4895.77,1,4895.77,2026-01-03,Credit Card
+INV0010,Hyderabad Branch,Hyderabad,Clothing,9084.79,3,27254.37,2026-02-17,Cash
+INV0011,Delhi Branch,Delhi,Home Appliances,15353.86,2,30707.72,2026-06-17,Credit Card
+INV0012,Chennai Branch,Chennai,Home Appliances,44575.79,1,44575.79,2026-05-26,Credit Card
+INV0013,Pune Branch,Pune,Clothing,9216.25,1,9216.25,2026-10-17,Credit Card
+INV0014,Bangalore Branch,Bangalore,Sports & Fitness,14054.35,2,28108.7,2026-05-31,Debit Card
+INV0015,Hyderabad Branch,Hyderabad,Groceries,1429.1,8,11432.8,2026-11-10,Debit Card
+INV0016,Delhi Branch,Delhi,Electronics,53403.68,1,53403.68,2026-03-10,Cash
+INV0017,Hyderabad Branch,Hyderabad,Home Appliances,47459.24,2,94918.48,2026-05-21,Credit Card
+INV0018,Mumbai Branch,Mumbai,Beauty & Personal Care,823.32,1,823.32,2026-10-04,Credit Card
+INV0019,Bangalore Branch,Bangalore,Electronics,25001.27,1,25001.27,2026-02-15,Cash
+INV0020,Pune Branch,Pune,Clothing,3045.67,4,12182.68,2026-04-28,Debit Card
+INV0021,Bangalore Branch,Bangalore,Sports & Fitness,8047.03,2,16094.06,2026-10-02,Cash
+INV0022,Delhi Branch,Delhi,Beauty & Personal Care,5964.43,2,11928.86,2026-08-03,Credit Card
+INV0023,Chennai Branch,Chennai,Sports & Fitness,9642.58,4,38570.32,2026-10-11,Credit Card
+INV0024,Chennai Branch,Chennai,Clothing,6977.55,1,6977.55,2026-07-08,Credit Card
+INV0025,Bangalore Branch,Bangalore,Home Appliances,16393.59,1,16393.59,2026-11-10,Debit Card
+INV0026,Mumbai Branch,Mumbai,Groceries,749.38,10,7493.8,2026-11-17,Debit Card
+INV0027,Hyderabad Branch,Hyderabad,Sports & Fitness,5558.59,3,16675.77,2026-12-22,UPI
+INV0028,Mumbai Branch,Mumbai,Groceries,4305.42,1,4305.42,2026-02-14,Debit Card
+INV0029,Mumbai Branch,Mumbai,Beauty & Personal Care,4859.09,3,14577.27,2026-08-04,Cash
+INV0030,Pune Branch,Pune,Groceries,1921.04,6,11526.24,2026-02-11,Cash
+INV0031,Bangalore Branch,Bangalore,Clothing,9541.9,2,19083.8,2026-03-25,Credit Card
+INV0032,Chennai Branch,Chennai,Home Appliances,4158.41,2,8316.82,2026-04-20,Debit Card
+INV0033,Delhi Branch,Delhi,Clothing,3270.53,4,13082.12,2026-08-24,Debit Card
+INV0034,Delhi Branch,Delhi,Sports & Fitness,4833.03,2,9666.06,2026-06-07,Debit Card
+INV0035,Hyderabad Branch,Hyderabad,Groceries,4927.55,9,44347.95,2026-11-12,Credit Card
+INV0036,Mumbai Branch,Mumbai,Home Appliances,35598.83,2,71197.66,2026-04-19,UPI
+INV0037,Mumbai Branch,Mumbai,Groceries,3108.04,10,31080.4,2026-08-14,UPI
+INV0038,Hyderabad Branch,Hyderabad,Groceries,74.68,1,74.68,2026-10-06,Credit Card
+INV0039,Delhi Branch,Delhi,Clothing,2456.43,2,4912.86,2026-12-24,Cash
+INV0040,Pune Branch,Pune,Electronics,47957.16,3,143871.48,2026-03-31,UPI
+INV0041,Hyderabad Branch,Hyderabad,Electronics,28975.17,3,86925.51,2026-09-25,Credit Card
+INV0042,Bangalore Branch,Bangalore,Home Appliances,46289.74,1,46289.74,2026-01-31,UPI
+INV0043,Pune Branch,Pune,Home Appliances,38471.49,3,115414.47,2026-07-18,Cash
+INV0044,Delhi Branch,Delhi,Home Appliances,22921.82,1,22921.82,2026-06-01,UPI
+INV0045,Bangalore Branch,Bangalore,Electronics,56414.01,2,112828.02,2026-12-16,UPI
+INV0046,Bangalore Branch,Bangalore,Groceries,4878.25,4,19513.0,2026-10-10,Credit Card
+INV0047,Delhi Branch,Delhi,Electronics,35004.78,2,70009.56,2026-12-05,Debit Card
+INV0048,Delhi Branch,Delhi,Beauty & Personal Care,5175.95,5,25879.75,2026-11-07,Cash
+INV0049,Pune Branch,Pune,Beauty & Personal Care,7357.45,4,29429.8,2026-05-30,Credit Card
+INV0050,Mumbai Branch,Mumbai,Groceries,1280.94,8,10247.52,2026-09-25,Debit Card
+INV0051,Mumbai Branch,Mumbai,Home Appliances,44441.34,1,44441.34,2026-01-12,UPI
+INV0052,Mumbai Branch,Mumbai,Electronics,8037.82,3,24113.46,2026-07-23,Credit Card
+INV0053,Bangalore Branch,Bangalore,Groceries,3259.82,5,16299.1,2026-01-18,Debit Card
+INV0054,Pune Branch,Pune,Electronics,58886.59,2,117773.18,2026-09-22,UPI
+INV0055,Pune Branch,Pune,Groceries,3092.3,7,21646.1,2026-12-19,Debit Card
+INV0056,Bangalore Branch,Bangalore,Home Appliances,25281.21,2,50562.42,2026-09-06,Debit Card
+INV0057,Hyderabad Branch,Hyderabad,Sports & Fitness,12461.74,3,37385.22,2026-11-03,UPI
+INV0058,Hyderabad Branch,Hyderabad,Electronics,12053.45,2,24106.9,2026-03-27,Debit Card
+INV0059,Mumbai Branch,Mumbai,Clothing,2822.18,4,11288.72,2026-12-29,Credit Card
+INV0060,Mumbai Branch,Mumbai,Home Appliances,14225.07,3,42675.21,2026-07-21,Credit Card
+INV0061,Pune Branch,Pune,Sports & Fitness,12076.25,2,24152.5,2026-09-04,UPI
+INV0062,Hyderabad Branch,Hyderabad,Home Appliances,22653.15,2,45306.3,2026-10-09,Credit Card
+INV0063,Hyderabad Branch,Hyderabad,Groceries,1260.16,2,2520.32,2026-08-22,Debit Card
+INV0064,Bangalore Branch,Bangalore,Home Appliances,44257.66,2,88515.32,2026-04-26,Credit Card
+INV0065,Pune Branch,Pune,Groceries,1900.91,8,15207.28,2026-08-12,Debit Card
+INV0066,Hyderabad Branch,Hyderabad,Sports & Fitness,9086.82,3,27260.46,2026-08-27,UPI
+INV0067,Hyderabad Branch,Hyderabad,Groceries,2078.02,3,6234.06,2026-11-09,Debit Card
+INV0068,Delhi Branch,Delhi,Home Appliances,9915.2,2,19830.4,2026-06-25,UPI
+INV0069,Mumbai Branch,Mumbai,Electronics,55086.72,3,165260.16,2026-07-03,Credit Card
+INV0070,Hyderabad Branch,Hyderabad,Groceries,2269.87,2,4539.74,2026-07-03,Debit Card
+INV0071,Mumbai Branch,Mumbai,Sports & Fitness,620.27,1,620.27,2026-02-11,UPI
+INV0072,Hyderabad Branch,Hyderabad,Home Appliances,48236.67,2,96473.34,2026-02-02,Debit Card
+INV0073,Bangalore Branch,Bangalore,Clothing,9844.43,4,39377.72,2026-01-08,Credit Card
+INV0074,Delhi Branch,Delhi,Sports & Fitness,14554.12,2,29108.24,2026-09-01,UPI
+INV0075,Mumbai Branch,Mumbai,Beauty & Personal Care,6965.83,5,34829.15,2026-06-02,Debit Card
+INV0076,Delhi Branch,Delhi,Groceries,4538.7,9,40848.3,2026-11-12,Cash
+INV0077,Delhi Branch,Delhi,Clothing,4248.63,3,12745.89,2026-09-14,UPI
+INV0078,Pune Branch,Pune,Clothing,7448.22,2,14896.44,2026-02-21,Credit Card
+INV0079,Hyderabad Branch,Hyderabad,Home Appliances,30831.58,1,30831.58,2026-02-06,Debit Card
+INV0080,Bangalore Branch,Bangalore,Groceries,1373.13,9,12358.17,2026-05-14,Credit Card
+INV0081,Pune Branch,Pune,Groceries,1148.66,9,10337.94,2026-12-03,Debit Card
+INV0082,Hyderabad Branch,Hyderabad,Sports & Fitness,2543.97,2,5087.94,2026-01-18,Credit Card
+INV0083,Bangalore Branch,Bangalore,Sports & Fitness,13288.49,3,39865.47,2026-03-10,Cash
+INV0084,Mumbai Branch,Mumbai,Beauty & Personal Care,6269.26,4,25077.04,2026-01-11,Credit Card
+INV0085,Mumbai Branch,Mumbai,Sports & Fitness,15290.77,3,45872.31,2026-05-31,Cash
+INV0086,Mumbai Branch,Mumbai,Beauty & Personal Care,2598.58,1,2598.58,2026-12-28,Credit Card
+INV0087,Pune Branch,Pune,Beauty & Personal Care,1721.55,4,6886.2,2026-09-07,Debit Card
+INV0088,Hyderabad Branch,Hyderabad,Beauty & Personal Care,3683.55,5,18417.75,2026-06-30,Debit Card
+INV0089,Mumbai Branch,Mumbai,Clothing,6697.72,4,26790.88,2026-02-22,UPI
+INV0090,Hyderabad Branch,Hyderabad,Clothing,11053.32,3,33159.96,2026-05-10,Debit Card
+INV0091,Mumbai Branch,Mumbai,Groceries,4380.37,6,26282.22,2026-07-11,Debit Card
+INV0092,Pune Branch,Pune,Home Appliances,45886.86,1,45886.86,2026-04-11,UPI
+INV0093,Hyderabad Branch,Hyderabad,Groceries,4258.8,7,29811.6,2026-09-15,Cash
+INV0094,Delhi Branch,Delhi,Groceries,4824.68,3,14474.04,2026-12-24,Credit Card
+INV0095,Delhi Branch,Delhi,Home Appliances,23809.5,2,47619.0,2026-03-17,UPI
+INV0096,Pune Branch,Pune,Groceries,284.99,3,854.97,2026-04-03,Debit Card
+INV0097,Delhi Branch,Delhi,Electronics,7000.3,2,14000.6,2026-02-16,Credit Card
+INV0098,Mumbai Branch,Mumbai,Beauty & Personal Care,3183.18,2,6366.36,2026-09-22,Debit Card
+INV0099,Mumbai Branch,Mumbai,Beauty & Personal Care,2135.73,1,2135.73,2026-06-18,Credit Card
+INV0100,Chennai Branch,Chennai,Electronics,13409.59,3,40228.77,2026-04-14,Credit Card
+INV0101,Chennai Branch,Chennai,Electronics,71527.72,2,143055.44,2026-03-22,UPI
+INV0102,Pune Branch,Pune,Groceries,1017.33,10,10173.3,2026-01-26,Credit Card
+INV0103,Delhi Branch,Delhi,Beauty & Personal Care,7679.1,1,7679.1,2026-06-23,UPI
+INV0104,Chennai Branch,Chennai,Beauty & Personal Care,6110.63,4,24442.52,2026-09-07,UPI
+INV0105,Bangalore Branch,Bangalore,Electronics,48358.17,1,48358.17,2026-03-27,Cash
+INV0106,Pune Branch,Pune,Beauty & Personal Care,5440.55,3,16321.65,2026-01-01,UPI
+INV0107,Hyderabad Branch,Hyderabad,Electronics,25395.39,2,50790.78,2026-06-22,UPI
+INV0108,Delhi Branch,Delhi,Groceries,3249.81,5,16249.05,2026-09-04,UPI
+INV0109,Mumbai Branch,Mumbai,Sports & Fitness,3977.83,3,11933.49,2026-05-06,Debit Card
+INV0110,Chennai Branch,Chennai,Electronics,70377.74,3,211133.22,2026-04-02,Credit Card
+INV0111,Hyderabad Branch,Hyderabad,Electronics,23193.07,1,23193.07,2026-02-26,Debit Card
+INV0112,Mumbai Branch,Mumbai,Clothing,3285.68,5,16428.4,2026-09-30,Cash
+INV0113,Delhi Branch,Delhi,Home Appliances,35846.98,1,35846.98,2026-11-11,Credit Card
+INV0114,Pune Branch,Pune,Sports & Fitness,13232.04,2,26464.08,2026-10-08,Cash
+INV0115,Mumbai Branch,Mumbai,Sports & Fitness,9190.59,2,18381.18,2026-07-09,Credit Card
+INV0116,Bangalore Branch,Bangalore,Electronics,47727.51,3,143182.53,2026-09-22,UPI
+INV0117,Bangalore Branch,Bangalore,Electronics,12634.39,1,12634.39,2026-05-25,Credit Card
+INV0118,Pune Branch,Pune,Beauty & Personal Care,5419.29,2,10838.58,2026-01-09,Credit Card
+INV0119,Hyderabad Branch,Hyderabad,Groceries,1389.52,5,6947.6,2026-05-15,Credit Card
+INV0120,Pune Branch,Pune,Sports & Fitness,5674.87,4,22699.48,2026-09-14,Credit Card
+INV0121,Pune Branch,Pune,Home Appliances,8946.82,2,17893.64,2026-08-25,Credit Card
+INV0122,Pune Branch,Pune,Electronics,25462.38,3,76387.14,2026-12-28,Credit Card
+INV0123,Mumbai Branch,Mumbai,Beauty & Personal Care,2716.88,4,10867.52,2026-12-31,Credit Card
+INV0124,Hyderabad Branch,Hyderabad,Electronics,34500.08,3,103500.24,2026-03-30,Credit Card
+INV0125,Mumbai Branch,Mumbai,Clothing,2527.91,4,10111.64,2026-01-04,Debit Card
+INV0126,Hyderabad Branch,Hyderabad,Clothing,2558.19,1,2558.19,2026-04-11,Debit Card
+INV0127,Delhi Branch,Delhi,Clothing,6638.34,3,19915.02,2026-11-16,Debit Card
+INV0128,Mumbai Branch,Mumbai,Home Appliances,7314.99,2,14629.98,2026-10-24,Debit Card
+INV0129,Mumbai Branch,Mumbai,Home Appliances,34755.95,1,34755.95,2026-02-06,Credit Card
+INV0130,Pune Branch,Pune,Sports & Fitness,18895.76,1,18895.76,2026-02-28,Credit Card
+INV0131,Mumbai Branch,Mumbai,Sports & Fitness,8707.87,1,8707.87,2026-07-25,Credit Card
+INV0132,Chennai Branch,Chennai,Clothing,10842.93,4,43371.72,2026-08-30,UPI
+INV0133,Pune Branch,Pune,Electronics,8095.09,2,16190.18,2026-12-25,UPI
+INV0134,Delhi Branch,Delhi,Home Appliances,3104.92,1,3104.92,2026-10-03,UPI
+INV0135,Pune Branch,Pune,Sports & Fitness,14510.97,3,43532.91,2026-03-19,Debit Card
+INV0136,Mumbai Branch,Mumbai,Groceries,3817.06,7,26719.42,2026-01-14,Cash
+INV0137,Chennai Branch,Chennai,Clothing,10163.78,5,50818.9,2026-08-20,Debit Card
+INV0138,Hyderabad Branch,Hyderabad,Clothing,964.77,5,4823.85,2026-07-22,UPI
+INV0139,Bangalore Branch,Bangalore,Electronics,58446.5,3,175339.5,2026-12-03,UPI
+INV0140,Mumbai Branch,Mumbai,Home Appliances,19450.4,1,19450.4,2026-07-30,UPI
+INV0141,Hyderabad Branch,Hyderabad,Groceries,1551.52,8,12412.16,2026-07-02,UPI
+INV0142,Hyderabad Branch,Hyderabad,Beauty & Personal Care,1466.89,2,2933.78,2026-04-21,Debit Card
+INV0143,Chennai Branch,Chennai,Beauty & Personal Care,7968.52,3,23905.56,2026-02-01,UPI
+INV0144,Pune Branch,Pune,Beauty & Personal Care,602.94,4,2411.76,2026-11-16,UPI
+INV0145,Hyderabad Branch,Hyderabad,Groceries,4143.69,7,29005.83,2026-10-29,Debit Card
+INV0146,Delhi Branch,Delhi,Groceries,3215.5,5,16077.5,2026-03-01,UPI
+INV0147,Delhi Branch,Delhi,Beauty & Personal Care,5907.14,5,29535.7,2026-09-14,Credit Card
+INV0148,Hyderabad Branch,Hyderabad,Beauty & Personal Care,5722.57,1,5722.57,2026-05-13,UPI
+INV0149,Hyderabad Branch,Hyderabad,Clothing,10343.68,1,10343.68,2026-06-09,UPI
+INV0150,Mumbai Branch,Mumbai,Sports & Fitness,3920.7,1,3920.7,2026-11-06,Credit Card
+INV0151,Bangalore Branch,Bangalore,Electronics,861.19,3,2583.57,2026-11-04,Cash
+INV0152,Chennai Branch,Chennai,Sports & Fitness,12091.01,2,24182.02,2026-03-11,Credit Card
+INV0153,Mumbai Branch,Mumbai,Electronics,27056.31,2,54112.62,2026-04-23,UPI
+INV0154,Hyderabad Branch,Hyderabad,Electronics,9985.02,2,19970.04,2026-10-27,UPI
+INV0155,Mumbai Branch,Mumbai,Clothing,2477.82,3,7433.46,2026-12-01,Cash
+INV0156,Pune Branch,Pune,Electronics,25415.8,2,50831.6,2026-01-29,UPI
+INV0157,Delhi Branch,Delhi,Electronics,6011.32,1,6011.32,2026-11-01,Credit Card
+INV0158,Pune Branch,Pune,Electronics,5022.96,1,5022.96,2026-06-28,Credit Card
+INV0159,Pune Branch,Pune,Clothing,11017.51,5,55087.55,2026-08-04,Debit Card
+INV0160,Bangalore Branch,Bangalore,Beauty & Personal Care,2565.61,3,7696.83,2026-01-28,Credit Card
+INV0161,Mumbai Branch,Mumbai,Electronics,73681.52,1,73681.52,2026-09-06,Debit Card
+INV0162,Chennai Branch,Chennai,Home Appliances,48253.98,2,96507.96,2026-09-05,Credit Card
+INV0163,Delhi Branch,Delhi,Beauty & Personal Care,1226.31,2,2452.62,2026-08-30,Debit Card
+INV0164,Mumbai Branch,Mumbai,Electronics,53847.38,1,53847.38,2026-10-16,Debit Card
+INV0165,Hyderabad Branch,Hyderabad,Electronics,45379.72,1,45379.72,2026-12-12,UPI
+INV0166,Delhi Branch,Delhi,Beauty & Personal Care,5556.11,4,22224.44,2026-11-07,Credit Card
+INV0167,Bangalore Branch,Bangalore,Beauty & Personal Care,859.91,1,859.91,2026-09-29,UPI
+INV0168,Bangalore Branch,Bangalore,Clothing,2506.15,2,5012.3,2026-12-25,Debit Card
+INV0169,Delhi Branch,Delhi,Beauty & Personal Care,705.45,3,2116.35,2026-09-04,Debit Card
+INV0170,Chennai Branch,Chennai,Electronics,45626.76,2,91253.52,2026-09-03,Debit Card
+INV0171,Delhi Branch,Delhi,Groceries,4933.63,9,44402.67,2026-07-17,Debit Card
+INV0172,Hyderabad Branch,Hyderabad,Beauty & Personal Care,5408.68,5,27043.4,2026-10-08,Credit Card
+INV0173,Delhi Branch,Delhi,Groceries,3568.27,3,10704.81,2026-01-27,Debit Card
+INV0174,Chennai Branch,Chennai,Beauty & Personal Care,7878.22,3,23634.66,2026-07-04,Credit Card
+INV0175,Mumbai Branch,Mumbai,Clothing,8232.74,1,8232.74,2026-06-05,Debit Card
+INV0176,Mumbai Branch,Mumbai,Beauty & Personal Care,417.43,4,1669.72,2026-11-30,Cash
+INV0177,Hyderabad Branch,Hyderabad,Clothing,10443.97,1,10443.97,2026-01-27,Debit Card
+INV0178,Chennai Branch,Chennai,Groceries,1855.16,1,1855.16,2026-08-23,UPI
+INV0179,Chennai Branch,Chennai,Electronics,1123.78,3,3371.34,2026-03-09,Credit Card
+INV0180,Bangalore Branch,Bangalore,Electronics,38436.78,1,38436.78,2026-11-19,UPI
+INV0181,Chennai Branch,Chennai,Beauty & Personal Care,7502.42,3,22507.26,2026-11-07,UPI
+INV0182,Chennai Branch,Chennai,Electronics,19893.94,1,19893.94,2026-03-27,UPI
+INV0183,Hyderabad Branch,Hyderabad,Electronics,37270.28,3,111810.84,2026-11-15,UPI
+INV0184,Delhi Branch,Delhi,Electronics,13694.25,3,41082.75,2026-07-01,Credit Card
+INV0185,Bangalore Branch,Bangalore,Electronics,5080.8,2,10161.6,2026-12-21,Cash
+INV0186,Pune Branch,Pune,Beauty & Personal Care,736.31,5,3681.55,2026-09-24,Credit Card
+INV0187,Delhi Branch,Delhi,Groceries,3648.7,5,18243.5,2026-01-13,UPI
+INV0188,Mumbai Branch,Mumbai,Sports & Fitness,17322.27,1,17322.27,2026-03-15,Cash
+INV0189,Bangalore Branch,Bangalore,Electronics,11432.77,1,11432.77,2026-05-28,Credit Card
+INV0190,Delhi Branch,Delhi,Home Appliances,15127.61,1,15127.61,2026-03-19,UPI
+INV0191,Chennai Branch,Chennai,Clothing,2581.84,2,5163.68,2026-02-18,Credit Card
+INV0192,Delhi Branch,Delhi,Groceries,182.94,4,731.76,2026-12-23,Cash
+INV0193,Mumbai Branch,Mumbai,Sports & Fitness,11202.6,1,11202.6,2026-11-14,UPI
+INV0194,Bangalore Branch,Bangalore,Sports & Fitness,14088.47,3,42265.41,2026-06-08,Credit Card
+INV0195,Mumbai Branch,Mumbai,Sports & Fitness,13063.19,1,13063.19,2026-03-20,Cash
+INV0196,Mumbai Branch,Mumbai,Electronics,29593.57,2,59187.14,2026-03-08,UPI
+INV0197,Pune Branch,Pune,Groceries,2797.3,4,11189.2,2026-12-01,Credit Card
+INV0198,Bangalore Branch,Bangalore,Home Appliances,5610.87,3,16832.61,2026-05-01,Debit Card
+INV0199,Mumbai Branch,Mumbai,Groceries,813.8,6,4882.8,2026-01-05,Credit Card
+INV0200,Delhi Branch,Delhi,Beauty & Personal Care,7461.18,5,37305.9,2026-05-26,Cash
+INV0201,Bangalore Branch,Bangalore,Clothing,9209.64,3,27628.92,2026-06-15,Credit Card
+INV0202,Chennai Branch,Chennai,Clothing,11096.05,2,22192.1,2026-08-16,UPI
+INV0203,Hyderabad Branch,Hyderabad,Beauty & Personal Care,7341.77,3,22025.31,2026-05-04,UPI
+INV0204,Mumbai Branch,Mumbai,Home Appliances,32820.24,2,65640.48,2026-12-03,Credit Card
+INV0205,Mumbai Branch,Mumbai,Electronics,69675.31,2,139350.62,2026-08-23,Debit Card
+INV0206,Delhi Branch,Delhi,Electronics,31719.44,2,63438.88,2026-12-27,Cash
+INV0207,Mumbai Branch,Mumbai,Home Appliances,1177.2,2,2354.4,2026-05-14,UPI
+INV0208,Pune Branch,Pune,Clothing,1032.08,2,2064.16,2026-08-26,Debit Card
+INV0209,Mumbai Branch,Mumbai,Groceries,591.96,4,2367.84,2026-05-14,Credit Card
+INV0210,Hyderabad Branch,Hyderabad,Groceries,522.0,10,5220.0,2026-09-13,Credit Card
+INV0211,Pune Branch,Pune,Beauty & Personal Care,2878.45,4,11513.8,2026-09-30,UPI
+INV0212,Pune Branch,Pune,Beauty & Personal Care,5640.04,1,5640.04,2026-04-28,Debit Card
+INV0213,Mumbai Branch,Mumbai,Clothing,9550.59,5,47752.95,2026-12-09,UPI
+INV0214,Bangalore Branch,Bangalore,Groceries,2971.56,8,23772.48,2026-11-09,Debit Card
+INV0215,Pune Branch,Pune,Groceries,774.86,1,774.86,2026-11-23,UPI
+INV0216,Bangalore Branch,Bangalore,Clothing,9050.45,4,36201.8,2026-03-21,Credit Card
+INV0217,Mumbai Branch,Mumbai,Groceries,1806.27,6,10837.62,2026-09-20,Credit Card
+INV0218,Mumbai Branch,Mumbai,Clothing,452.02,5,2260.1,2026-02-08,UPI
+INV0219,Chennai Branch,Chennai,Home Appliances,14748.84,2,29497.68,2026-02-08,UPI
+INV0220,Delhi Branch,Delhi,Electronics,25330.56,2,50661.12,2026-12-22,Debit Card
+INV0221,Delhi Branch,Delhi,Electronics,21149.02,1,21149.02,2026-02-25,Debit Card
+INV0222,Hyderabad Branch,Hyderabad,Electronics,61040.77,1,61040.77,2026-11-12,Debit Card
+INV0223,Pune Branch,Pune,Sports & Fitness,15270.55,3,45811.65,2026-06-07,Debit Card
+INV0224,Chennai Branch,Chennai,Home Appliances,35082.05,3,105246.15,2026-04-21,Credit Card
+INV0225,Delhi Branch,Delhi,Electronics,11114.18,3,33342.54,2026-01-27,UPI
+INV0226,Chennai Branch,Chennai,Sports & Fitness,16214.33,4,64857.32,2026-09-04,Credit Card
+INV0227,Mumbai Branch,Mumbai,Clothing,8222.96,4,32891.84,2026-09-21,UPI
+INV0228,Hyderabad Branch,Hyderabad,Clothing,2579.6,3,7738.8,2026-06-20,Credit Card
+INV0229,Pune Branch,Pune,Sports & Fitness,13067.45,2,26134.9,2026-10-23,Credit Card
+INV0230,Mumbai Branch,Mumbai,Electronics,36676.56,3,110029.68,2026-04-28,Cash
+INV0231,Mumbai Branch,Mumbai,Electronics,33399.77,1,33399.77,2026-07-21,Debit Card
+INV0232,Hyderabad Branch,Hyderabad,Home Appliances,6494.04,1,6494.04,2026-04-15,Cash
+INV0233,Chennai Branch,Chennai,Electronics,39258.18,3,117774.54,2026-08-01,Credit Card
+INV0234,Pune Branch,Pune,Home Appliances,5896.66,2,11793.32,2026-02-19,UPI
+INV0235,Chennai Branch,Chennai,Electronics,12987.6,2,25975.2,2026-06-23,UPI
+INV0236,Bangalore Branch,Bangalore,Electronics,10634.94,3,31904.82,2026-07-20,UPI
+INV0237,Hyderabad Branch,Hyderabad,Electronics,71594.83,3,214784.49,2026-07-23,Credit Card
+INV0238,Bangalore Branch,Bangalore,Clothing,3632.92,2,7265.84,2026-06-13,Debit Card
+INV0239,Mumbai Branch,Mumbai,Electronics,27156.16,2,54312.32,2026-08-23,Debit Card
+INV0240,Mumbai Branch,Mumbai,Electronics,24698.38,2,49396.76,2026-07-06,Cash
+INV0241,Bangalore Branch,Bangalore,Beauty & Personal Care,7196.18,4,28784.72,2026-04-14,Credit Card
+INV0242,Bangalore Branch,Bangalore,Groceries,2836.68,10,28366.8,2026-03-20,Credit Card
+INV0243,Delhi Branch,Delhi,Groceries,4599.84,6,27599.04,2026-08-25,Debit Card
+INV0244,Hyderabad Branch,Hyderabad,Electronics,23054.43,3,69163.29,2026-12-09,Credit Card
+INV0245,Pune Branch,Pune,Groceries,618.43,6,3710.58,2026-10-02,Debit Card
+INV0246,Bangalore Branch,Bangalore,Groceries,2803.28,9,25229.52,2026-08-22,Credit Card
+INV0247,Pune Branch,Pune,Home Appliances,17931.31,2,35862.62,2026-12-03,Credit Card
+INV0248,Hyderabad Branch,Hyderabad,Electronics,60301.49,2,120602.98,2026-11-25,Cash
+INV0249,Delhi Branch,Delhi,Sports & Fitness,17624.64,2,35249.28,2026-07-04,Debit Card
+INV0250,Hyderabad Branch,Hyderabad,Sports & Fitness,9609.7,4,38438.8,2026-02-09,Debit Card
+INV0251,Pune Branch,Pune,Electronics,72874.84,2,145749.68,2026-08-20,Cash
+INV0252,Bangalore Branch,Bangalore,Electronics,41833.57,1,41833.57,2026-08-16,UPI
+INV0253,Hyderabad Branch,Hyderabad,Electronics,20902.29,1,20902.29,2026-04-12,Debit Card
+INV0254,Delhi Branch,Delhi,Home Appliances,24959.8,2,49919.6,2026-11-07,Cash
+INV0255,Delhi Branch,Delhi,Electronics,3568.42,3,10705.26,2026-11-14,UPI
+INV0256,Bangalore Branch,Bangalore,Beauty & Personal Care,6451.61,3,19354.83,2026-05-01,Cash
+INV0257,Bangalore Branch,Bangalore,Beauty & Personal Care,901.34,3,2704.02,2026-06-24,UPI
+INV0258,Mumbai Branch,Mumbai,Beauty & Personal Care,2539.11,4,10156.44,2026-03-13,UPI
+INV0259,Mumbai Branch,Mumbai,Clothing,6914.2,3,20742.6,2026-03-07,Credit Card
+INV0260,Pune Branch,Pune,Sports & Fitness,1146.61,4,4586.44,2026-04-07,Debit Card
+INV0261,Mumbai Branch,Mumbai,Electronics,6685.31,2,13370.62,2026-05-14,Cash
+INV0262,Bangalore Branch,Bangalore,Groceries,3495.78,8,27966.24,2026-04-10,UPI
+INV0263,Delhi Branch,Delhi,Groceries,405.3,8,3242.4,2026-02-25,Debit Card
+INV0264,Mumbai Branch,Mumbai,Sports & Fitness,9698.53,3,29095.59,2026-06-13,Credit Card
+INV0265,Chennai Branch,Chennai,Clothing,4262.74,1,4262.74,2026-08-16,Cash
+INV0266,Mumbai Branch,Mumbai,Beauty & Personal Care,1901.83,3,5705.49,2026-04-29,Credit Card
+INV0267,Delhi Branch,Delhi,Electronics,14807.39,1,14807.39,2026-07-14,UPI
+INV0268,Mumbai Branch,Mumbai,Sports & Fitness,15339.2,3,46017.6,2026-04-10,Debit Card
+INV0269,Mumbai Branch,Mumbai,Clothing,11433.04,1,11433.04,2026-09-14,UPI
+INV0270,Mumbai Branch,Mumbai,Clothing,1940.1,3,5820.3,2026-08-25,UPI
+INV0271,Mumbai Branch,Mumbai,Sports & Fitness,19205.72,2,38411.44,2026-12-17,Cash
+INV0272,Mumbai Branch,Mumbai,Groceries,2994.07,1,2994.07,2026-01-20,Cash
+INV0273,Mumbai Branch,Mumbai,Groceries,3226.22,2,6452.44,2026-11-08,UPI
+INV0274,Pune Branch,Pune,Home Appliances,35786.39,2,71572.78,2026-05-05,UPI
+INV0275,Pune Branch,Pune,Electronics,53045.62,1,53045.62,2026-01-25,UPI
+INV0276,Delhi Branch,Delhi,Groceries,4108.06,9,36972.54,2026-09-09,Credit Card
+INV0277,Delhi Branch,Delhi,Electronics,36673.37,3,110020.11,2026-03-04,Cash
+INV0278,Hyderabad Branch,Hyderabad,Electronics,40375.21,3,121125.63,2026-03-06,Credit Card
+INV0279,Bangalore Branch,Bangalore,Beauty & Personal Care,2658.23,1,2658.23,2026-12-24,UPI
+INV0280,Bangalore Branch,Bangalore,Home Appliances,6157.62,3,18472.86,2026-03-22,Cash
+INV0281,Mumbai Branch,Mumbai,Groceries,3339.97,7,23379.79,2026-07-19,Debit Card
+INV0282,Mumbai Branch,Mumbai,Groceries,216.37,4,865.48,2026-03-15,Credit Card
+INV0283,Delhi Branch,Delhi,Clothing,3524.93,1,3524.93,2026-02-15,Debit Card
+INV0284,Delhi Branch,Delhi,Home Appliances,5617.26,2,11234.52,2026-01-01,UPI
+INV0285,Pune Branch,Pune,Sports & Fitness,4057.32,4,16229.28,2026-01-06,Credit Card
+INV0286,Hyderabad Branch,Hyderabad,Sports & Fitness,12883.0,1,12883.0,2026-06-22,Credit Card
+INV0287,Mumbai Branch,Mumbai,Groceries,3160.96,1,3160.96,2026-06-08,UPI
+INV0288,Delhi Branch,Delhi,Groceries,2134.22,4,8536.88,2026-01-15,UPI
+INV0289,Hyderabad Branch,Hyderabad,Clothing,1355.01,3,4065.03,2026-05-08,Credit Card
+INV0290,Mumbai Branch,Mumbai,Clothing,5370.47,3,16111.41,2026-04-10,Credit Card
+INV0291,Bangalore Branch,Bangalore,Clothing,4427.12,3,13281.36,2026-07-28,UPI
+INV0292,Mumbai Branch,Mumbai,Home Appliances,36302.5,1,36302.5,2026-12-30,UPI
+INV0293,Chennai Branch,Chennai,Clothing,7074.61,1,7074.61,2026-09-10,Cash
+INV0294,Mumbai Branch,Mumbai,Groceries,2483.25,1,2483.25,2026-12-02,Debit Card
+INV0295,Bangalore Branch,Bangalore,Groceries,2460.56,1,2460.56,2026-03-12,Credit Card
+INV0296,Chennai Branch,Chennai,Groceries,4833.17,7,33832.19,2026-03-20,Credit Card
+INV0297,Chennai Branch,Chennai,Electronics,56917.03,3,170751.09,2026-10-02,UPI
+INV0298,Bangalore Branch,Bangalore,Electronics,37675.88,2,75351.76,2026-04-24,Credit Card
+INV0299,Bangalore Branch,Bangalore,Home Appliances,24481.91,1,24481.91,2026-11-06,Credit Card
+INV0300,Pune Branch,Pune,Groceries,181.07,5,905.35,2026-06-19,UPI
+INV0301,Bangalore Branch,Bangalore,Electronics,70734.19,3,212202.57,2026-03-15,UPI
+INV0302,Mumbai Branch,Mumbai,Clothing,4034.34,2,8068.68,2026-11-05,UPI
+INV0303,Hyderabad Branch,Hyderabad,Beauty & Personal Care,2121.92,3,6365.76,2026-07-20,Debit Card
+INV0304,Hyderabad Branch,Hyderabad,Groceries,4997.07,6,29982.42,2026-10-20,Debit Card
+INV0305,Bangalore Branch,Bangalore,Beauty & Personal Care,5777.65,2,11555.3,2026-06-15,Debit Card
+INV0306,Hyderabad Branch,Hyderabad,Sports & Fitness,1233.07,2,2466.14,2026-02-16,Debit Card
+INV0307,Delhi Branch,Delhi,Home Appliances,4032.39,2,8064.78,2026-09-06,Cash
+INV0308,Pune Branch,Pune,Home Appliances,2249.58,2,4499.16,2026-02-15,Debit Card
+INV0309,Delhi Branch,Delhi,Electronics,45291.72,3,135875.16,2026-08-31,Cash
+INV0310,Mumbai Branch,Mumbai,Sports & Fitness,1709.82,3,5129.46,2026-06-02,UPI
+INV0311,Hyderabad Branch,Hyderabad,Groceries,4670.27,1,4670.27,2026-10-16,UPI
+INV0312,Hyderabad Branch,Hyderabad,Sports & Fitness,18757.06,1,18757.06,2026-11-14,Credit Card
+INV0313,Delhi Branch,Delhi,Clothing,6688.83,3,20066.49,2026-05-29,Debit Card
+INV0314,Delhi Branch,Delhi,Electronics,46554.61,3,139663.83,2026-11-18,Credit Card
+INV0315,Delhi Branch,Delhi,Electronics,22458.56,1,22458.56,2026-02-10,Debit Card
+INV0316,Delhi Branch,Delhi,Home Appliances,4134.65,1,4134.65,2026-02-09,Credit Card
+INV0317,Delhi Branch,Delhi,Clothing,8928.29,4,35713.16,2026-12-29,Credit Card
+INV0318,Pune Branch,Pune,Electronics,8352.52,2,16705.04,2026-07-29,UPI
+INV0319,Delhi Branch,Delhi,Beauty & Personal Care,775.91,2,1551.82,2026-06-14,Debit Card
+INV0320,Chennai Branch,Chennai,Beauty & Personal Care,2558.66,2,5117.32,2026-02-26,UPI
+INV0321,Chennai Branch,Chennai,Clothing,445.85,4,1783.4,2026-04-16,Credit Card
+INV0322,Hyderabad Branch,Hyderabad,Clothing,5378.22,3,16134.66,2026-09-08,Credit Card
+INV0323,Delhi Branch,Delhi,Electronics,53309.92,2,106619.84,2026-10-27,Debit Card
+INV0324,Hyderabad Branch,Hyderabad,Beauty & Personal Care,6430.66,2,12861.32,2026-12-01,Credit Card
+INV0325,Bangalore Branch,Bangalore,Groceries,3041.32,6,18247.92,2026-05-29,Credit Card
+INV0326,Pune Branch,Pune,Sports & Fitness,16983.42,4,67933.68,2026-06-15,UPI
+INV0327,Bangalore Branch,Bangalore,Groceries,2062.19,4,8248.76,2026-03-01,Credit Card
+INV0328,Hyderabad Branch,Hyderabad,Clothing,10230.63,2,20461.26,2026-01-31,Credit Card
+INV0329,Pune Branch,Pune,Groceries,2557.04,2,5114.08,2026-06-09,Cash
+INV0330,Delhi Branch,Delhi,Electronics,17349.28,2,34698.56,2026-07-31,Debit Card
+INV0331,Bangalore Branch,Bangalore,Beauty & Personal Care,7558.75,1,7558.75,2026-02-08,Cash
+INV0332,Mumbai Branch,Mumbai,Clothing,3517.16,2,7034.32,2026-05-30,Debit Card
+INV0333,Pune Branch,Pune,Clothing,606.56,4,2426.24,2026-08-23,UPI
+INV0334,Bangalore Branch,Bangalore,Sports & Fitness,5080.68,1,5080.68,2026-10-23,Credit Card
+INV0335,Mumbai Branch,Mumbai,Sports & Fitness,7523.74,4,30094.96,2026-12-09,Debit Card
+INV0336,Pune Branch,Pune,Beauty & Personal Care,2875.66,3,8626.98,2026-05-05,Cash
+INV0337,Mumbai Branch,Mumbai,Electronics,39730.33,2,79460.66,2026-05-23,UPI
+INV0338,Pune Branch,Pune,Home Appliances,44273.22,2,88546.44,2026-11-16,Debit Card
+INV0339,Mumbai Branch,Mumbai,Sports & Fitness,6059.06,3,18177.18,2026-09-11,Cash
+INV0340,Chennai Branch,Chennai,Groceries,2627.81,5,13139.05,2026-04-10,Credit Card
+INV0341,Mumbai Branch,Mumbai,Electronics,26038.31,3,78114.93,2026-09-08,Credit Card
+INV0342,Chennai Branch,Chennai,Beauty & Personal Care,6592.01,5,32960.05,2026-02-27,Credit Card
+INV0343,Bangalore Branch,Bangalore,Clothing,2143.94,2,4287.88,2026-06-13,UPI
+INV0344,Pune Branch,Pune,Clothing,1511.07,4,6044.28,2026-04-22,Credit Card
+INV0345,Bangalore Branch,Bangalore,Sports & Fitness,10209.01,2,20418.02,2026-12-29,UPI
+INV0346,Bangalore Branch,Bangalore,Home Appliances,33922.49,3,101767.47,2026-01-13,Credit Card
+INV0347,Chennai Branch,Chennai,Clothing,9607.64,2,19215.28,2026-11-09,UPI
+INV0348,Delhi Branch,Delhi,Groceries,2968.64,3,8905.92,2026-04-13,UPI
+INV0349,Pune Branch,Pune,Groceries,3880.56,8,31044.48,2026-01-14,Credit Card
+INV0350,Mumbai Branch,Mumbai,Electronics,29939.09,3,89817.27,2026-08-29,Credit Card
+INV0351,Pune Branch,Pune,Beauty & Personal Care,359.65,1,359.65,2026-09-05,Credit Card
+INV0352,Mumbai Branch,Mumbai,Beauty & Personal Care,1017.18,3,3051.54,2026-02-21,UPI
+INV0353,Hyderabad Branch,Hyderabad,Groceries,241.68,4,966.72,2026-01-14,Credit Card
+INV0354,Pune Branch,Pune,Groceries,1678.27,7,11747.89,2026-02-10,Cash
+INV0355,Hyderabad Branch,Hyderabad,Sports & Fitness,10061.18,3,30183.54,2026-05-30,Debit Card
+INV0356,Hyderabad Branch,Hyderabad,Electronics,27238.76,3,81716.28,2026-02-18,UPI
+INV0357,Bangalore Branch,Bangalore,Clothing,6859.01,5,34295.05,2026-09-14,Debit Card
+INV0358,Bangalore Branch,Bangalore,Clothing,5923.13,4,23692.52,2026-01-29,Debit Card
+INV0359,Hyderabad Branch,Hyderabad,Home Appliances,34219.2,3,102657.6,2026-10-15,UPI
+INV0360,Pune Branch,Pune,Electronics,50288.59,3,150865.77,2026-11-16,Credit Card
+INV0361,Chennai Branch,Chennai,Home Appliances,16585.14,1,16585.14,2026-09-19,UPI
+INV0362,Mumbai Branch,Mumbai,Groceries,1763.76,8,14110.08,2026-12-11,Credit Card
+INV0363,Mumbai Branch,Mumbai,Home Appliances,29672.24,3,89016.72,2026-12-09,Debit Card
+INV0364,Mumbai Branch,Mumbai,Electronics,45055.29,1,45055.29,2026-01-17,UPI
+INV0365,Pune Branch,Pune,Clothing,3981.99,5,19909.95,2026-05-05,Cash
+INV0366,Hyderabad Branch,Hyderabad,Clothing,4164.72,4,16658.88,2026-10-05,Cash
+INV0367,Bangalore Branch,Bangalore,Electronics,52298.14,2,104596.28,2026-05-04,Credit Card
+INV0368,Pune Branch,Pune,Electronics,48837.88,2,97675.76,2026-09-27,Debit Card
+INV0369,Delhi Branch,Delhi,Electronics,10820.77,2,21641.54,2026-10-10,Debit Card
+INV0370,Chennai Branch,Chennai,Groceries,2233.16,10,22331.6,2026-12-30,Cash
+INV0371,Bangalore Branch,Bangalore,Electronics,67038.79,3,201116.37,2026-05-01,Debit Card
+INV0372,Delhi Branch,Delhi,Sports & Fitness,1015.22,4,4060.88,2026-05-07,Debit Card
+INV0373,Delhi Branch,Delhi,Groceries,4283.06,7,29981.42,2026-01-09,Debit Card
+INV0374,Delhi Branch,Delhi,Beauty & Personal Care,1389.11,1,1389.11,2026-04-15,Credit Card
+INV0375,Mumbai Branch,Mumbai,Sports & Fitness,10292.8,4,41171.2,2026-04-13,Debit Card
+INV0376,Mumbai Branch,Mumbai,Electronics,32285.76,1,32285.76,2026-06-15,Credit Card
+INV0377,Chennai Branch,Chennai,Home Appliances,1496.34,1,1496.34,2026-06-03,UPI
+INV0378,Hyderabad Branch,Hyderabad,Sports & Fitness,18333.32,1,18333.32,2026-11-09,Cash
+INV0379,Delhi Branch,Delhi,Home Appliances,23291.34,3,69874.02,2026-10-10,Credit Card
+INV0380,Pune Branch,Pune,Clothing,11464.94,3,34394.82,2026-09-23,Cash
+INV0381,Hyderabad Branch,Hyderabad,Clothing,3654.9,2,7309.8,2026-01-02,UPI
+INV0382,Chennai Branch,Chennai,Electronics,65077.66,1,65077.66,2026-06-22,Credit Card
+INV0383,Bangalore Branch,Bangalore,Clothing,11091.96,3,33275.88,2026-09-24,Credit Card
+INV0384,Hyderabad Branch,Hyderabad,Sports & Fitness,11269.6,3,33808.8,2026-03-31,Credit Card
+INV0385,Delhi Branch,Delhi,Sports & Fitness,4292.75,4,17171.0,2026-06-05,Credit Card
+INV0386,Chennai Branch,Chennai,Electronics,51645.36,2,103290.72,2026-09-23,UPI
+INV0387,Pune Branch,Pune,Home Appliances,27899.93,2,55799.86,2026-10-18,UPI
+INV0388,Chennai Branch,Chennai,Groceries,4725.42,9,42528.78,2026-11-08,Credit Card
+INV0389,Mumbai Branch,Mumbai,Sports & Fitness,8953.66,4,35814.64,2026-06-06,UPI
+INV0390,Bangalore Branch,Bangalore,Electronics,20723.71,1,20723.71,2026-05-26,Credit Card
+INV0391,Pune Branch,Pune,Sports & Fitness,3024.25,4,12097.0,2026-05-20,Cash
+INV0392,Mumbai Branch,Mumbai,Beauty & Personal Care,5619.21,3,16857.63,2026-09-02,UPI
+INV0393,Pune Branch,Pune,Electronics,73078.93,3,219236.79,2026-06-03,Debit Card
+INV0394,Pune Branch,Pune,Electronics,2903.11,1,2903.11,2026-05-27,Credit Card
+INV0395,Mumbai Branch,Mumbai,Beauty & Personal Care,5949.52,1,5949.52,2026-03-03,Cash
+INV0396,Hyderabad Branch,Hyderabad,Electronics,69578.23,3,208734.69,2026-06-24,UPI
+INV0397,Bangalore Branch,Bangalore,Clothing,1174.94,4,4699.76,2026-03-28,Credit Card
+INV0398,Delhi Branch,Delhi,Sports & Fitness,2470.35,1,2470.35,2026-07-11,Credit Card
+INV0399,Hyderabad Branch,Hyderabad,Clothing,8395.9,5,41979.5,2026-11-21,Credit Card
+INV0400,Hyderabad Branch,Hyderabad,Groceries,3257.42,2,6514.84,2026-10-11,Cash
+INV0401,Delhi Branch,Delhi,Clothing,1105.28,4,4421.12,2026-06-24,Cash
+INV0402,Chennai Branch,Chennai,Electronics,62714.17,1,62714.17,2026-12-23,UPI
+INV0403,Bangalore Branch,Bangalore,Sports & Fitness,10611.45,1,10611.45,2026-12-24,UPI
+INV0404,Mumbai Branch,Mumbai,Groceries,4540.63,9,40865.67,2026-06-12,UPI
+INV0405,Chennai Branch,Chennai,Electronics,65946.92,3,197840.76,2026-10-06,UPI
+INV0406,Bangalore Branch,Bangalore,Groceries,4071.91,2,8143.82,2026-05-05,Credit Card
+INV0407,Delhi Branch,Delhi,Sports & Fitness,10463.21,1,10463.21,2026-11-17,Cash
+INV0408,Bangalore Branch,Bangalore,Electronics,19476.93,2,38953.86,2026-05-17,Credit Card
+INV0409,Mumbai Branch,Mumbai,Beauty & Personal Care,4097.21,1,4097.21,2026-04-05,Debit Card
+INV0410,Chennai Branch,Chennai,Home Appliances,5939.76,3,17819.28,2026-02-18,UPI
+INV0411,Pune Branch,Pune,Beauty & Personal Care,5304.88,5,26524.4,2026-11-04,Cash
+INV0412,Pune Branch,Pune,Sports & Fitness,2939.35,4,11757.4,2026-04-19,UPI
+INV0413,Mumbai Branch,Mumbai,Beauty & Personal Care,4138.27,2,8276.54,2026-10-24,Debit Card
+INV0414,Chennai Branch,Chennai,Sports & Fitness,1371.32,1,1371.32,2026-02-01,Cash
+INV0415,Mumbai Branch,Mumbai,Electronics,23023.83,3,69071.49,2026-07-02,Debit Card
+INV0416,Delhi Branch,Delhi,Beauty & Personal Care,1933.44,1,1933.44,2026-06-06,Credit Card
+INV0417,Mumbai Branch,Mumbai,Clothing,7554.37,3,22663.11,2026-06-10,Credit Card
+INV0418,Bangalore Branch,Bangalore,Clothing,9505.4,3,28516.2,2026-03-03,Cash
+INV0419,Mumbai Branch,Mumbai,Sports & Fitness,1428.87,3,4286.61,2026-01-27,Credit Card
+INV0420,Chennai Branch,Chennai,Sports & Fitness,17050.59,1,17050.59,2026-05-07,UPI
+INV0421,Pune Branch,Pune,Home Appliances,43177.62,3,129532.86,2026-06-21,Credit Card
+INV0422,Mumbai Branch,Mumbai,Clothing,4304.55,4,17218.2,2026-10-17,Credit Card
+INV0423,Mumbai Branch,Mumbai,Clothing,8010.35,2,16020.7,2026-06-18,UPI
+INV0424,Mumbai Branch,Mumbai,Groceries,2042.93,4,8171.72,2026-03-31,Credit Card
+INV0425,Pune Branch,Pune,Groceries,813.24,1,813.24,2026-04-06,UPI
+INV0426,Bangalore Branch,Bangalore,Groceries,2666.88,5,13334.4,2026-08-12,UPI
+INV0427,Delhi Branch,Delhi,Electronics,7207.89,1,7207.89,2026-06-09,Credit Card
+INV0428,Bangalore Branch,Bangalore,Electronics,65982.63,1,65982.63,2026-11-25,Cash
+INV0429,Mumbai Branch,Mumbai,Beauty & Personal Care,7401.89,3,22205.67,2026-06-10,Cash
+INV0430,Bangalore Branch,Bangalore,Clothing,9912.87,3,29738.61,2026-07-26,UPI
+INV0431,Chennai Branch,Chennai,Sports & Fitness,11381.8,1,11381.8,2026-01-24,UPI
+INV0432,Bangalore Branch,Bangalore,Home Appliances,28322.33,1,28322.33,2026-03-12,UPI
+INV0433,Pune Branch,Pune,Electronics,73857.87,1,73857.87,2026-11-07,Cash
+INV0434,Bangalore Branch,Bangalore,Electronics,19194.31,3,57582.93,2026-05-06,Debit Card
+INV0435,Mumbai Branch,Mumbai,Electronics,6435.37,2,12870.74,2026-06-03,Cash
+INV0436,Mumbai Branch,Mumbai,Sports & Fitness,11370.24,1,11370.24,2026-08-04,UPI
+INV0437,Mumbai Branch,Mumbai,Electronics,25195.89,1,25195.89,2026-01-22,Cash
+INV0438,Hyderabad Branch,Hyderabad,Clothing,4071.36,5,20356.8,2026-07-04,Cash
+INV0439,Bangalore Branch,Bangalore,Sports & Fitness,439.58,2,879.16,2026-05-07,Debit Card
+INV0440,Pune Branch,Pune,Sports & Fitness,12045.92,3,36137.76,2026-02-24,UPI
+INV0441,Bangalore Branch,Bangalore,Groceries,1356.97,5,6784.85,2026-06-02,UPI
+INV0442,Mumbai Branch,Mumbai,Electronics,14739.1,1,14739.1,2026-06-13,Credit Card
+INV0443,Bangalore Branch,Bangalore,Electronics,3800.05,1,3800.05,2026-03-10,Credit Card
+INV0444,Mumbai Branch,Mumbai,Electronics,27835.63,1,27835.63,2026-07-18,Cash
+INV0445,Delhi Branch,Delhi,Electronics,66019.49,3,198058.47,2026-09-30,Debit Card
+INV0446,Pune Branch,Pune,Clothing,4239.05,2,8478.1,2026-04-08,Cash
+INV0447,Chennai Branch,Chennai,Sports & Fitness,13677.76,2,27355.52,2026-12-19,Credit Card
+INV0448,Pune Branch,Pune,Clothing,9151.6,1,9151.6,2026-08-12,Debit Card
+INV0449,Mumbai Branch,Mumbai,Home Appliances,17076.94,3,51230.82,2026-10-10,Cash
+INV0450,Pune Branch,Pune,Electronics,61765.74,1,61765.74,2026-01-26,Cash
+INV0451,Mumbai Branch,Mumbai,Beauty & Personal Care,5565.85,3,16697.55,2026-10-08,Cash
+INV0452,Chennai Branch,Chennai,Home Appliances,28402.87,3,85208.61,2026-05-03,UPI
+INV0453,Pune Branch,Pune,Beauty & Personal Care,107.84,4,431.36,2026-09-17,Cash
+INV0454,Mumbai Branch,Mumbai,Sports & Fitness,991.29,3,2973.87,2026-10-21,UPI
+INV0455,Mumbai Branch,Mumbai,Groceries,4954.79,9,44593.11,2026-04-02,Cash
+INV0456,Mumbai Branch,Mumbai,Electronics,58845.47,1,58845.47,2026-04-05,Cash
+INV0457,Chennai Branch,Chennai,Groceries,4690.95,10,46909.5,2026-01-22,Cash
+INV0458,Hyderabad Branch,Hyderabad,Clothing,10856.95,3,32570.85,2026-08-09,Credit Card
+INV0459,Bangalore Branch,Bangalore,Sports & Fitness,702.73,2,1405.46,2026-10-10,Credit Card
+INV0460,Pune Branch,Pune,Groceries,3969.64,3,11908.92,2026-05-30,Cash
+INV0461,Pune Branch,Pune,Beauty & Personal Care,3664.05,4,14656.2,2026-02-28,UPI
+INV0462,Mumbai Branch,Mumbai,Clothing,9537.83,5,47689.15,2026-04-26,Cash
+INV0463,Chennai Branch,Chennai,Electronics,1298.31,3,3894.93,2026-05-28,Credit Card
+INV0464,Delhi Branch,Delhi,Groceries,1476.59,1,1476.59,2026-12-01,Cash
+INV0465,Pune Branch,Pune,Home Appliances,37814.87,2,75629.74,2026-02-15,Credit Card
+INV0466,Pune Branch,Pune,Home Appliances,39858.02,3,119574.06,2026-05-06,UPI
+INV0467,Pune Branch,Pune,Clothing,7550.66,2,15101.32,2026-08-21,UPI
+INV0468,Chennai Branch,Chennai,Groceries,1541.22,8,12329.76,2026-03-28,Cash
+INV0469,Mumbai Branch,Mumbai,Home Appliances,16207.77,3,48623.31,2026-11-19,Cash
+INV0470,Hyderabad Branch,Hyderabad,Electronics,72533.89,1,72533.89,2026-11-28,Debit Card
+INV0471,Hyderabad Branch,Hyderabad,Sports & Fitness,8952.48,3,26857.44,2026-05-19,Debit Card
+INV0472,Hyderabad Branch,Hyderabad,Electronics,33976.72,1,33976.72,2026-09-30,UPI
+INV0473,Mumbai Branch,Mumbai,Electronics,41783.09,2,83566.18,2026-10-03,UPI
+INV0474,Mumbai Branch,Mumbai,Clothing,5091.18,2,10182.36,2026-09-06,Debit Card
+INV0475,Delhi Branch,Delhi,Clothing,6766.26,5,33831.3,2026-03-10,Debit Card
+INV0476,Delhi Branch,Delhi,Clothing,5358.32,5,26791.6,2026-01-19,Credit Card
+INV0477,Hyderabad Branch,Hyderabad,Clothing,9972.56,3,29917.68,2026-05-07,Credit Card
+INV0478,Pune Branch,Pune,Sports & Fitness,18208.31,3,54624.93,2026-02-17,Credit Card
+INV0479,Pune Branch,Pune,Clothing,11205.69,4,44822.76,2026-04-17,Debit Card
+INV0480,Hyderabad Branch,Hyderabad,Clothing,6902.27,4,27609.08,2026-08-21,UPI
+INV0481,Hyderabad Branch,Hyderabad,Clothing,5473.14,4,21892.56,2026-08-03,Debit Card
+INV0482,Mumbai Branch,Mumbai,Electronics,53128.81,3,159386.43,2026-03-18,Credit Card
+INV0483,Pune Branch,Pune,Home Appliances,42077.86,3,126233.58,2026-01-07,Credit Card
+INV0484,Delhi Branch,Delhi,Groceries,2836.76,9,25530.84,2026-03-24,Debit Card
+INV0485,Mumbai Branch,Mumbai,Home Appliances,35299.07,1,35299.07,2026-06-16,UPI
+INV0486,Hyderabad Branch,Hyderabad,Electronics,56429.92,2,112859.84,2026-10-12,Debit Card
+INV0487,Hyderabad Branch,Hyderabad,Sports & Fitness,13624.96,2,27249.92,2026-05-14,UPI
+INV0488,Delhi Branch,Delhi,Clothing,9029.76,3,27089.28,2026-04-15,UPI
+INV0489,Pune Branch,Pune,Sports & Fitness,4410.31,3,13230.93,2026-07-21,Credit Card
+INV0490,Hyderabad Branch,Hyderabad,Clothing,6130.98,4,24523.92,2026-01-27,Cash
+INV0491,Pune Branch,Pune,Electronics,44449.53,2,88899.06,2026-03-24,UPI
+INV0492,Pune Branch,Pune,Beauty & Personal Care,119.58,2,239.16,2026-01-14,Debit Card
+INV0493,Pune Branch,Pune,Home Appliances,42942.16,2,85884.32,2026-07-11,Credit Card
+INV0494,Delhi Branch,Delhi,Beauty & Personal Care,4919.19,5,24595.95,2026-06-11,UPI
+INV0495,Bangalore Branch,Bangalore,Clothing,1810.9,2,3621.8,2026-08-01,UPI
+INV0496,Hyderabad Branch,Hyderabad,Home Appliances,41001.5,1,41001.5,2026-08-14,Cash
+INV0497,Hyderabad Branch,Hyderabad,Beauty & Personal Care,5764.75,5,28823.75,2026-05-25,Cash
+INV0498,Pune Branch,Pune,Home Appliances,38156.68,1,38156.68,2026-11-14,Credit Card
+INV0499,Delhi Branch,Delhi,Groceries,1990.61,7,13934.27,2026-12-02,UPI
+INV0500,Hyderabad Branch,Hyderabad,Home Appliances,42855.92,3,128567.76,2026-02-10,Debit Card
+INV0501,Bangalore Branch,Bangalore,Home Appliances,21287.35,1,21287.35,2026-12-02,Credit Card
+INV0502,Chennai Branch,Chennai,Sports & Fitness,11539.03,2,23078.06,2026-03-13,Cash
+INV0503,Chennai Branch,Chennai,Groceries,53.18,3,159.54,2026-04-01,UPI
+INV0504,Hyderabad Branch,Hyderabad,Clothing,7845.02,1,7845.02,2026-07-13,UPI
+INV0505,Hyderabad Branch,Hyderabad,Beauty & Personal Care,5773.59,1,5773.59,2026-01-11,Credit Card
+INV0506,Bangalore Branch,Bangalore,Clothing,6935.18,1,6935.18,2026-05-13,Credit Card
+INV0507,Delhi Branch,Delhi,Beauty & Personal Care,4022.81,3,12068.43,2026-03-13,UPI
+INV0508,Bangalore Branch,Bangalore,Clothing,9776.26,3,29328.78,2026-06-26,UPI
+INV0509,Hyderabad Branch,Hyderabad,Electronics,51357.86,1,51357.86,2026-10-25,Cash
+INV0510,Mumbai Branch,Mumbai,Beauty & Personal Care,2296.78,5,11483.9,2026-12-04,Cash
+INV0511,Mumbai Branch,Mumbai,Electronics,71963.24,3,215889.72,2026-03-19,Debit Card
+INV0512,Bangalore Branch,Bangalore,Electronics,53279.23,1,53279.23,2026-07-18,Debit Card
+INV0513,Mumbai Branch,Mumbai,Home Appliances,49409.01,3,148227.03,2026-06-23,Credit Card
+INV0514,Delhi Branch,Delhi,Beauty & Personal Care,7772.96,1,7772.96,2026-06-01,Credit Card
+INV0515,Delhi Branch,Delhi,Sports & Fitness,18402.52,3,55207.56,2026-08-19,Credit Card
+INV0516,Mumbai Branch,Mumbai,Groceries,3789.09,5,18945.45,2026-12-28,UPI
+INV0517,Delhi Branch,Delhi,Electronics,46019.66,2,92039.32,2026-05-28,Credit Card
+INV0518,Bangalore Branch,Bangalore,Sports & Fitness,3691.76,4,14767.04,2026-01-24,Credit Card
+INV0519,Mumbai Branch,Mumbai,Electronics,41116.68,3,123350.04,2026-12-01,Cash
+INV0520,Bangalore Branch,Bangalore,Electronics,57590.94,1,57590.94,2026-12-07,Credit Card
+INV0521,Bangalore Branch,Bangalore,Groceries,2628.24,6,15769.44,2026-04-28,Credit Card
+INV0522,Delhi Branch,Delhi,Clothing,10458.4,5,52292.0,2026-07-03,Cash
+INV0523,Mumbai Branch,Mumbai,Sports & Fitness,2460.22,3,7380.66,2026-11-11,Debit Card
+INV0524,Pune Branch,Pune,Beauty & Personal Care,3109.43,5,15547.15,2026-07-03,Cash
+INV0525,Mumbai Branch,Mumbai,Home Appliances,25792.26,2,51584.52,2026-06-25,UPI
+INV0526,Delhi Branch,Delhi,Electronics,32878.54,1,32878.54,2026-12-03,Credit Card
+INV0527,Chennai Branch,Chennai,Groceries,587.5,6,3525.0,2026-10-30,UPI
+INV0528,Chennai Branch,Chennai,Clothing,2096.28,5,10481.4,2026-07-05,UPI
+INV0529,Bangalore Branch,Bangalore,Electronics,62951.2,3,188853.6,2026-02-28,UPI
+INV0530,Delhi Branch,Delhi,Groceries,2447.7,7,17133.9,2026-06-10,Cash
+INV0531,Pune Branch,Pune,Groceries,291.18,8,2329.44,2026-09-04,Cash
+INV0532,Pune Branch,Pune,Electronics,2023.65,2,4047.3,2026-04-10,Cash
+INV0533,Delhi Branch,Delhi,Clothing,5839.66,2,11679.32,2026-07-16,Cash
+INV0534,Pune Branch,Pune,Home Appliances,9054.56,2,18109.12,2026-08-29,Credit Card
+INV0535,Mumbai Branch,Mumbai,Electronics,53120.35,2,106240.7,2026-02-01,UPI
+INV0536,Mumbai Branch,Mumbai,Clothing,9605.28,5,48026.4,2026-07-27,Cash
+INV0537,Hyderabad Branch,Hyderabad,Beauty & Personal Care,1903.54,3,5710.62,2026-09-27,UPI
+INV0538,Mumbai Branch,Mumbai,Beauty & Personal Care,4778.2,4,19112.8,2026-03-20,Debit Card
+INV0539,Mumbai Branch,Mumbai,Beauty & Personal Care,1320.11,1,1320.11,2026-07-20,Credit Card
+INV0540,Bangalore Branch,Bangalore,Clothing,3851.92,4,15407.68,2026-09-16,Debit Card
+INV0541,Chennai Branch,Chennai,Beauty & Personal Care,7121.48,3,21364.44,2026-01-17,Debit Card
+INV0542,Hyderabad Branch,Hyderabad,Groceries,2743.29,10,27432.9,2026-08-24,Debit Card
+INV0543,Bangalore Branch,Bangalore,Groceries,4435.15,5,22175.75,2026-04-05,Debit Card
+INV0544,Chennai Branch,Chennai,Electronics,17513.39,2,35026.78,2026-05-26,Credit Card
+INV0545,Mumbai Branch,Mumbai,Clothing,4161.28,1,4161.28,2026-08-25,Cash
+INV0546,Hyderabad Branch,Hyderabad,Groceries,2381.21,9,21430.89,2026-01-02,Debit Card
+INV0547,Delhi Branch,Delhi,Groceries,2426.4,8,19411.2,2026-01-07,UPI
+INV0548,Mumbai Branch,Mumbai,Beauty & Personal Care,7981.42,5,39907.1,2026-06-13,Credit Card
+INV0549,Bangalore Branch,Bangalore,Groceries,616.5,1,616.5,2026-12-13,Debit Card
+INV0550,Hyderabad Branch,Hyderabad,Groceries,4267.23,3,12801.69,2026-01-03,Credit Card
+INV0551,Hyderabad Branch,Hyderabad,Electronics,64885.21,3,194655.63,2026-10-15,Cash
+INV0552,Mumbai Branch,Mumbai,Clothing,6772.42,1,6772.42,2026-01-28,Debit Card
+INV0553,Mumbai Branch,Mumbai,Groceries,1752.98,6,10517.88,2026-06-28,Cash
+INV0554,Chennai Branch,Chennai,Groceries,2620.17,5,13100.85,2026-06-07,UPI
+INV0555,Mumbai Branch,Mumbai,Groceries,1497.72,10,14977.2,2026-06-20,Credit Card
+INV0556,Delhi Branch,Delhi,Beauty & Personal Care,6412.95,5,32064.75,2026-01-30,Cash
+INV0557,Delhi Branch,Delhi,Sports & Fitness,10116.1,4,40464.4,2026-10-03,Credit Card
+INV0558,Hyderabad Branch,Hyderabad,Clothing,11132.35,2,22264.7,2026-04-11,Credit Card
+INV0559,Pune Branch,Pune,Home Appliances,31511.88,2,63023.76,2026-10-09,Debit Card
+INV0560,Hyderabad Branch,Hyderabad,Beauty & Personal Care,4163.12,4,16652.48,2026-08-28,Credit Card
+INV0561,Mumbai Branch,Mumbai,Sports & Fitness,14308.07,4,57232.28,2026-07-21,Cash
+INV0562,Delhi Branch,Delhi,Home Appliances,25692.72,1,25692.72,2026-04-23,Cash
+INV0563,Bangalore Branch,Bangalore,Sports & Fitness,18118.78,4,72475.12,2026-08-27,UPI
+INV0564,Pune Branch,Pune,Sports & Fitness,3933.59,2,7867.18,2026-12-31,Debit Card
+INV0565,Pune Branch,Pune,Beauty & Personal Care,7789.45,1,7789.45,2026-12-03,Cash
+INV0566,Pune Branch,Pune,Clothing,9802.63,4,39210.52,2026-12-01,Debit Card
+INV0567,Bangalore Branch,Bangalore,Electronics,64666.42,3,193999.26,2026-03-22,Credit Card
+INV0568,Mumbai Branch,Mumbai,Electronics,36631.76,1,36631.76,2026-08-02,Credit Card
+INV0569,Delhi Branch,Delhi,Clothing,10095.26,1,10095.26,2026-05-26,Cash
+INV0570,Hyderabad Branch,Hyderabad,Clothing,3889.26,5,19446.3,2026-12-19,UPI
+INV0571,Delhi Branch,Delhi,Groceries,3821.64,10,38216.4,2026-12-13,Credit Card
+INV0572,Bangalore Branch,Bangalore,Clothing,1943.27,1,1943.27,2026-11-13,Cash
+INV0573,Hyderabad Branch,Hyderabad,Clothing,3892.51,5,19462.55,2026-03-01,UPI
+INV0574,Bangalore Branch,Bangalore,Beauty & Personal Care,3621.29,5,18106.45,2026-04-27,UPI
+INV0575,Bangalore Branch,Bangalore,Electronics,24716.12,3,74148.36,2026-09-17,Cash
+INV0576,Hyderabad Branch,Hyderabad,Groceries,1965.73,3,5897.19,2026-10-01,Cash
+INV0577,Chennai Branch,Chennai,Beauty & Personal Care,6578.83,3,19736.49,2026-05-08,Cash
+INV0578,Pune Branch,Pune,Beauty & Personal Care,2127.74,5,10638.7,2026-02-19,UPI
+INV0579,Bangalore Branch,Bangalore,Sports & Fitness,14982.04,4,59928.16,2026-02-19,Credit Card
+INV0580,Delhi Branch,Delhi,Sports & Fitness,1752.13,3,5256.39,2026-09-07,UPI
+INV0581,Hyderabad Branch,Hyderabad,Sports & Fitness,15385.06,1,15385.06,2026-06-15,Credit Card
+INV0582,Hyderabad Branch,Hyderabad,Groceries,3970.52,1,3970.52,2026-06-29,UPI
+INV0583,Mumbai Branch,Mumbai,Groceries,2038.41,3,6115.23,2026-10-25,Credit Card
+INV0584,Delhi Branch,Delhi,Groceries,3626.27,1,3626.27,2026-01-07,Credit Card
+INV0585,Chennai Branch,Chennai,Home Appliances,45841.78,1,45841.78,2026-10-03,Credit Card
+INV0586,Pune Branch,Pune,Sports & Fitness,16074.05,1,16074.05,2026-04-11,Debit Card
+INV0587,Mumbai Branch,Mumbai,Groceries,1982.71,8,15861.68,2026-12-06,Debit Card
+INV0588,Delhi Branch,Delhi,Clothing,5965.3,3,17895.9,2026-12-15,Credit Card
+INV0589,Mumbai Branch,Mumbai,Groceries,3907.82,6,23446.92,2026-07-03,Debit Card
+INV0590,Mumbai Branch,Mumbai,Electronics,22510.52,3,67531.56,2026-04-26,Debit Card
+INV0591,Chennai Branch,Chennai,Electronics,60448.1,2,120896.2,2026-03-27,UPI
+INV0592,Hyderabad Branch,Hyderabad,Electronics,25142.88,2,50285.76,2026-03-08,UPI
+INV0593,Delhi Branch,Delhi,Sports & Fitness,16178.01,1,16178.01,2026-12-31,Cash
+INV0594,Pune Branch,Pune,Groceries,479.66,5,2398.3,2026-03-10,Credit Card
+INV0595,Mumbai Branch,Mumbai,Beauty & Personal Care,450.74,1,450.74,2026-06-12,Credit Card
+INV0596,Delhi Branch,Delhi,Home Appliances,49886.1,2,99772.2,2026-06-24,UPI
+INV0597,Pune Branch,Pune,Electronics,65313.72,3,195941.16,2026-09-05,Credit Card
+INV0598,Pune Branch,Pune,Electronics,66307.28,2,132614.56,2026-11-04,Debit Card
+INV0599,Chennai Branch,Chennai,Beauty & Personal Care,7615.11,2,15230.22,2026-07-23,UPI
+INV0600,Pune Branch,Pune,Groceries,2219.67,7,15537.69,2026-10-04,UPI
+INV0601,Hyderabad Branch,Hyderabad,Sports & Fitness,5950.66,4,23802.64,2026-07-26,Debit Card
+INV0602,Bangalore Branch,Bangalore,Electronics,10447.85,2,20895.7,2026-06-09,Cash
+INV0603,Chennai Branch,Chennai,Home Appliances,25559.25,1,25559.25,2026-02-27,Debit Card
+INV0604,Pune Branch,Pune,Beauty & Personal Care,1838.38,4,7353.52,2026-03-18,UPI
+INV0605,Chennai Branch,Chennai,Groceries,4680.98,2,9361.96,2026-06-07,Credit Card
+INV0606,Bangalore Branch,Bangalore,Groceries,69.82,10,698.2,2026-01-17,Credit Card
+INV0607,Bangalore Branch,Bangalore,Sports & Fitness,3120.98,2,6241.96,2026-04-26,Cash
+INV0608,Mumbai Branch,Mumbai,Groceries,1270.06,4,5080.24,2026-06-18,Credit Card
+INV0609,Bangalore Branch,Bangalore,Clothing,2627.79,4,10511.16,2026-06-22,Cash
+INV0610,Hyderabad Branch,Hyderabad,Clothing,2941.61,1,2941.61,2026-10-25,Debit Card
+INV0611,Hyderabad Branch,Hyderabad,Groceries,3297.44,3,9892.32,2026-12-20,UPI
+INV0612,Pune Branch,Pune,Beauty & Personal Care,2687.35,1,2687.35,2026-09-24,UPI
+INV0613,Chennai Branch,Chennai,Beauty & Personal Care,4958.69,2,9917.38,2026-01-30,Debit Card
+INV0614,Chennai Branch,Chennai,Groceries,4456.78,6,26740.68,2026-05-30,UPI
+INV0615,Delhi Branch,Delhi,Beauty & Personal Care,4860.2,1,4860.2,2026-09-24,Credit Card
+INV0616,Bangalore Branch,Bangalore,Electronics,52334.33,2,104668.66,2026-08-06,Debit Card
+INV0617,Bangalore Branch,Bangalore,Electronics,27920.34,3,83761.02,2026-06-17,Credit Card
+INV0618,Delhi Branch,Delhi,Clothing,2168.94,5,10844.7,2026-06-09,UPI
+INV0619,Mumbai Branch,Mumbai,Sports & Fitness,6615.51,1,6615.51,2026-05-29,UPI
+INV0620,Mumbai Branch,Mumbai,Electronics,72349.77,2,144699.54,2026-07-31,UPI
+INV0621,Bangalore Branch,Bangalore,Electronics,46938.4,1,46938.4,2026-03-07,UPI
+INV0622,Hyderabad Branch,Hyderabad,Clothing,3546.88,3,10640.64,2026-07-08,UPI
+INV0623,Chennai Branch,Chennai,Beauty & Personal Care,3662.23,5,18311.15,2026-03-17,Credit Card
+INV0624,Hyderabad Branch,Hyderabad,Electronics,62795.07,3,188385.21,2026-09-06,UPI
+INV0625,Chennai Branch,Chennai,Groceries,3358.8,3,10076.4,2026-11-12,Cash
+INV0626,Hyderabad Branch,Hyderabad,Beauty & Personal Care,4529.16,2,9058.32,2026-07-05,Debit Card
+INV0627,Bangalore Branch,Bangalore,Groceries,4431.56,8,35452.48,2026-05-22,Cash
+INV0628,Mumbai Branch,Mumbai,Electronics,50695.02,3,152085.06,2026-12-10,Debit Card
+INV0629,Hyderabad Branch,Hyderabad,Electronics,48490.55,1,48490.55,2026-08-29,Credit Card
+INV0630,Bangalore Branch,Bangalore,Groceries,989.35,1,989.35,2026-06-06,Credit Card
+INV0631,Chennai Branch,Chennai,Clothing,1544.75,3,4634.25,2026-01-11,Credit Card
+INV0632,Bangalore Branch,Bangalore,Beauty & Personal Care,7724.62,4,30898.48,2026-01-06,Debit Card
+INV0633,Mumbai Branch,Mumbai,Home Appliances,30344.06,2,60688.12,2026-03-22,UPI
+INV0634,Delhi Branch,Delhi,Home Appliances,21368.49,3,64105.47,2026-03-28,Cash
+INV0635,Mumbai Branch,Mumbai,Sports & Fitness,11903.71,4,47614.84,2026-09-21,Cash
+INV0636,Mumbai Branch,Mumbai,Groceries,355.97,8,2847.76,2026-07-02,Debit Card
+INV0637,Pune Branch,Pune,Groceries,4119.53,1,4119.53,2026-12-31,Debit Card
+INV0638,Pune Branch,Pune,Sports & Fitness,4567.92,4,18271.68,2026-07-17,Credit Card
+INV0639,Bangalore Branch,Bangalore,Groceries,4032.5,8,32260.0,2026-11-26,UPI
+INV0640,Bangalore Branch,Bangalore,Home Appliances,27184.54,2,54369.08,2026-07-21,Credit Card
+INV0641,Bangalore Branch,Bangalore,Beauty & Personal Care,2284.92,3,6854.76,2026-05-11,UPI
+INV0642,Bangalore Branch,Bangalore,Electronics,3041.58,3,9124.74,2026-09-18,UPI
+INV0643,Mumbai Branch,Mumbai,Clothing,9845.25,5,49226.25,2026-06-14,Cash
+INV0644,Delhi Branch,Delhi,Electronics,13893.34,2,27786.68,2026-04-11,UPI
+INV0645,Pune Branch,Pune,Electronics,4643.94,1,4643.94,2026-06-22,Credit Card
+INV0646,Bangalore Branch,Bangalore,Clothing,9143.77,4,36575.08,2026-08-31,UPI
+INV0647,Mumbai Branch,Mumbai,Groceries,1782.71,7,12478.97,2026-05-18,UPI
+INV0648,Hyderabad Branch,Hyderabad,Beauty & Personal Care,3175.74,1,3175.74,2026-09-14,UPI
+INV0649,Pune Branch,Pune,Sports & Fitness,5167.23,4,20668.92,2026-12-24,Cash
+INV0650,Mumbai Branch,Mumbai,Beauty & Personal Care,6887.51,2,13775.02,2026-05-31,UPI
+INV0651,Hyderabad Branch,Hyderabad,Groceries,1521.78,9,13696.02,2026-04-18,UPI
+INV0652,Chennai Branch,Chennai,Groceries,1090.45,6,6542.7,2026-05-27,Debit Card
+INV0653,Pune Branch,Pune,Groceries,1580.79,4,6323.16,2026-11-02,UPI
+INV0654,Delhi Branch,Delhi,Electronics,15873.7,1,15873.7,2026-03-07,UPI
+INV0655,Bangalore Branch,Bangalore,Sports & Fitness,6557.81,1,6557.81,2026-12-22,Debit Card
+INV0656,Delhi Branch,Delhi,Groceries,460.53,8,3684.24,2026-06-01,UPI
+INV0657,Bangalore Branch,Bangalore,Groceries,834.72,4,3338.88,2026-11-04,Debit Card
+INV0658,Delhi Branch,Delhi,Beauty & Personal Care,3394.72,5,16973.6,2026-10-15,Cash
+INV0659,Pune Branch,Pune,Groceries,4403.36,3,13210.08,2026-10-14,Credit Card
+INV0660,Delhi Branch,Delhi,Electronics,5050.97,3,15152.91,2026-11-28,Credit Card
+INV0661,Delhi Branch,Delhi,Electronics,16580.46,3,49741.38,2026-03-09,UPI
+INV0662,Chennai Branch,Chennai,Home Appliances,45508.94,1,45508.94,2026-08-05,Debit Card
+INV0663,Mumbai Branch,Mumbai,Beauty & Personal Care,7131.12,4,28524.48,2026-02-06,Debit Card
+INV0664,Mumbai Branch,Mumbai,Electronics,51215.25,3,153645.75,2026-04-20,Credit Card
+INV0665,Delhi Branch,Delhi,Sports & Fitness,5037.33,2,10074.66,2026-01-15,Debit Card
+INV0666,Pune Branch,Pune,Beauty & Personal Care,3416.5,1,3416.5,2026-09-07,UPI
+INV0667,Bangalore Branch,Bangalore,Beauty & Personal Care,1768.65,5,8843.25,2026-08-10,UPI
+INV0668,Chennai Branch,Chennai,Groceries,686.51,5,3432.55,2026-09-28,Credit Card
+INV0669,Delhi Branch,Delhi,Electronics,28995.88,1,28995.88,2026-03-06,Cash
+INV0670,Hyderabad Branch,Hyderabad,Beauty & Personal Care,4648.99,5,23244.95,2026-05-02,Debit Card
+INV0671,Mumbai Branch,Mumbai,Groceries,1831.67,7,12821.69,2026-09-04,Cash
+INV0672,Pune Branch,Pune,Home Appliances,30930.4,1,30930.4,2026-10-29,Debit Card
+INV0673,Chennai Branch,Chennai,Beauty & Personal Care,2440.41,2,4880.82,2026-11-20,Debit Card
+INV0674,Pune Branch,Pune,Electronics,26462.11,1,26462.11,2026-01-27,Debit Card
+INV0675,Pune Branch,Pune,Beauty & Personal Care,6346.32,5,31731.6,2026-05-27,Cash
+INV0676,Delhi Branch,Delhi,Sports & Fitness,17602.8,1,17602.8,2026-01-04,Debit Card
+INV0677,Chennai Branch,Chennai,Home Appliances,16779.67,3,50339.01,2026-10-26,Debit Card
+INV0678,Hyderabad Branch,Hyderabad,Clothing,6986.73,3,20960.19,2026-02-14,UPI
+INV0679,Mumbai Branch,Mumbai,Sports & Fitness,5779.8,3,17339.4,2026-10-28,UPI
+INV0680,Delhi Branch,Delhi,Clothing,924.02,5,4620.1,2026-02-26,Debit Card
+INV0681,Mumbai Branch,Mumbai,Beauty & Personal Care,5929.07,5,29645.35,2026-01-06,UPI
+INV0682,Mumbai Branch,Mumbai,Beauty & Personal Care,1450.93,1,1450.93,2026-11-17,UPI
+INV0683,Mumbai Branch,Mumbai,Beauty & Personal Care,3463.13,1,3463.13,2026-06-10,Credit Card
+INV0684,Hyderabad Branch,Hyderabad,Groceries,2460.88,2,4921.76,2026-06-05,Cash
+INV0685,Pune Branch,Pune,Electronics,14487.79,3,43463.37,2026-08-25,Credit Card
+INV0686,Delhi Branch,Delhi,Groceries,518.05,6,3108.3,2026-04-11,UPI
+INV0687,Hyderabad Branch,Hyderabad,Clothing,4371.75,1,4371.75,2026-09-10,Credit Card
+INV0688,Chennai Branch,Chennai,Clothing,11441.75,2,22883.5,2026-06-06,Cash
+INV0689,Bangalore Branch,Bangalore,Home Appliances,31141.64,2,62283.28,2026-04-10,Credit Card
+INV0690,Hyderabad Branch,Hyderabad,Groceries,1937.98,8,15503.84,2026-05-25,Debit Card
+INV0691,Delhi Branch,Delhi,Beauty & Personal Care,407.4,2,814.8,2026-01-03,UPI
+INV0692,Chennai Branch,Chennai,Sports & Fitness,12125.38,4,48501.52,2026-04-21,Debit Card
+INV0693,Delhi Branch,Delhi,Groceries,506.68,10,5066.8,2026-08-04,UPI
+INV0694,Delhi Branch,Delhi,Beauty & Personal Care,4386.1,4,17544.4,2026-02-20,UPI
+INV0695,Chennai Branch,Chennai,Home Appliances,37845.57,2,75691.14,2026-02-13,UPI
+INV0696,Hyderabad Branch,Hyderabad,Clothing,5255.95,5,26279.75,2026-08-28,Credit Card
+INV0697,Bangalore Branch,Bangalore,Electronics,23016.33,3,69048.99,2026-06-06,UPI
+INV0698,Pune Branch,Pune,Beauty & Personal Care,474.34,3,1423.02,2026-02-19,Credit Card
+INV0699,Pune Branch,Pune,Sports & Fitness,788.12,2,1576.24,2026-09-30,Debit Card
+INV0700,Delhi Branch,Delhi,Home Appliances,22071.3,3,66213.9,2026-10-11,UPI
+INV0701,Delhi Branch,Delhi,Sports & Fitness,17701.9,3,53105.7,2026-01-13,Cash
+INV0702,Delhi Branch,Delhi,Sports & Fitness,5108.04,1,5108.04,2026-03-15,Cash
+INV0703,Mumbai Branch,Mumbai,Groceries,2891.57,10,28915.7,2026-05-16,Debit Card
+INV0704,Bangalore Branch,Bangalore,Home Appliances,34530.99,1,34530.99,2026-09-24,UPI
+INV0705,Delhi Branch,Delhi,Clothing,1011.71,4,4046.84,2026-01-28,UPI
+INV0706,Hyderabad Branch,Hyderabad,Sports & Fitness,3316.08,3,9948.24,2026-10-22,Debit Card
+INV0707,Bangalore Branch,Bangalore,Electronics,25380.74,2,50761.48,2026-04-27,UPI
+INV0708,Bangalore Branch,Bangalore,Groceries,3366.96,1,3366.96,2026-02-15,Credit Card
+INV0709,Hyderabad Branch,Hyderabad,Sports & Fitness,8948.99,2,17897.98,2026-11-12,Credit Card
+INV0710,Hyderabad Branch,Hyderabad,Groceries,3684.27,9,33158.43,2026-02-01,Cash
+INV0711,Chennai Branch,Chennai,Beauty & Personal Care,6954.02,2,13908.04,2026-02-17,UPI
+INV0712,Pune Branch,Pune,Groceries,3803.94,7,26627.58,2026-12-13,Credit Card
+INV0713,Bangalore Branch,Bangalore,Sports & Fitness,19847.27,4,79389.08,2026-07-09,Credit Card
+INV0714,Chennai Branch,Chennai,Sports & Fitness,15160.91,4,60643.64,2026-06-19,Credit Card
+INV0715,Bangalore Branch,Bangalore,Groceries,4268.29,6,25609.74,2026-09-08,UPI
+INV0716,Mumbai Branch,Mumbai,Beauty & Personal Care,6675.69,2,13351.38,2026-08-19,Credit Card
+INV0717,Hyderabad Branch,Hyderabad,Groceries,3664.82,7,25653.74,2026-08-12,Debit Card
+INV0718,Mumbai Branch,Mumbai,Home Appliances,40288.29,2,80576.58,2026-01-09,UPI
+INV0719,Pune Branch,Pune,Home Appliances,46799.48,2,93598.96,2026-07-21,Credit Card
+INV0720,Chennai Branch,Chennai,Beauty & Personal Care,3854.14,4,15416.56,2026-04-12,Cash
+INV0721,Hyderabad Branch,Hyderabad,Electronics,48160.9,3,144482.7,2026-10-22,Debit Card
+INV0722,Hyderabad Branch,Hyderabad,Groceries,2598.95,3,7796.85,2026-07-04,UPI
+INV0723,Mumbai Branch,Mumbai,Home Appliances,42700.81,3,128102.43,2026-02-15,Debit Card
+INV0724,Chennai Branch,Chennai,Clothing,5346.91,3,16040.73,2026-11-20,Debit Card
+INV0725,Mumbai Branch,Mumbai,Clothing,9890.8,5,49454.0,2026-04-14,Credit Card
+INV0726,Mumbai Branch,Mumbai,Electronics,60112.11,2,120224.22,2026-04-10,UPI
+INV0727,Delhi Branch,Delhi,Groceries,4811.34,9,43302.06,2026-12-08,UPI
+INV0728,Mumbai Branch,Mumbai,Beauty & Personal Care,2066.47,5,10332.35,2026-10-10,Credit Card
+INV0729,Hyderabad Branch,Hyderabad,Electronics,53453.77,3,160361.31,2026-11-10,Debit Card
+INV0730,Hyderabad Branch,Hyderabad,Groceries,3796.75,8,30374.0,2026-08-30,UPI
+INV0731,Delhi Branch,Delhi,Sports & Fitness,18744.69,3,56234.07,2026-11-29,Credit Card
+INV0732,Mumbai Branch,Mumbai,Electronics,68092.16,1,68092.16,2026-02-12,Credit Card
+INV0733,Mumbai Branch,Mumbai,Beauty & Personal Care,4630.85,2,9261.7,2026-08-07,Cash
+INV0734,Delhi Branch,Delhi,Groceries,2916.81,5,14584.05,2026-04-18,Debit Card
+INV0735,Mumbai Branch,Mumbai,Beauty & Personal Care,1421.6,4,5686.4,2026-05-26,Credit Card
+INV0736,Pune Branch,Pune,Beauty & Personal Care,7802.21,3,23406.63,2026-03-28,Debit Card
+INV0737,Mumbai Branch,Mumbai,Sports & Fitness,5323.84,2,10647.68,2026-03-16,Credit Card
+INV0738,Delhi Branch,Delhi,Electronics,54575.43,1,54575.43,2026-06-11,Cash
+INV0739,Delhi Branch,Delhi,Clothing,9610.8,4,38443.2,2026-12-02,UPI
+INV0740,Hyderabad Branch,Hyderabad,Beauty & Personal Care,3585.6,3,10756.8,2026-08-20,Cash
+INV0741,Mumbai Branch,Mumbai,Groceries,1095.41,1,1095.41,2026-05-08,Credit Card
+INV0742,Mumbai Branch,Mumbai,Groceries,985.35,3,2956.05,2026-06-08,UPI
+INV0743,Bangalore Branch,Bangalore,Electronics,64352.0,3,193056.0,2026-07-13,Credit Card
+INV0744,Mumbai Branch,Mumbai,Sports & Fitness,10361.9,1,10361.9,2026-03-31,UPI
+INV0745,Hyderabad Branch,Hyderabad,Home Appliances,5416.71,2,10833.42,2026-07-10,Debit Card
+INV0746,Hyderabad Branch,Hyderabad,Home Appliances,36133.95,2,72267.9,2026-09-11,UPI
+INV0747,Delhi Branch,Delhi,Beauty & Personal Care,2076.35,1,2076.35,2026-03-30,Credit Card
+INV0748,Hyderabad Branch,Hyderabad,Clothing,10553.82,1,10553.82,2026-08-02,Credit Card
+INV0749,Bangalore Branch,Bangalore,Clothing,3921.99,5,19609.95,2026-09-16,Debit Card
+INV0750,Bangalore Branch,Bangalore,Clothing,2643.17,3,7929.51,2026-07-09,Credit Card
+INV0751,Delhi Branch,Delhi,Home Appliances,5158.06,1,5158.06,2026-04-17,Credit Card
+INV0752,Delhi Branch,Delhi,Electronics,38755.61,1,38755.61,2026-07-22,UPI
+INV0753,Delhi Branch,Delhi,Sports & Fitness,9179.53,2,18359.06,2026-10-17,UPI
+INV0754,Hyderabad Branch,Hyderabad,Beauty & Personal Care,6035.37,4,24141.48,2026-03-22,Credit Card
+INV0755,Pune Branch,Pune,Groceries,2349.78,8,18798.24,2026-07-29,UPI
+INV0756,Delhi Branch,Delhi,Clothing,4322.65,1,4322.65,2026-09-06,UPI
+INV0757,Delhi Branch,Delhi,Electronics,20214.79,3,60644.37,2026-04-28,UPI
+INV0758,Chennai Branch,Chennai,Sports & Fitness,5779.49,4,23117.96,2026-05-22,Cash
+INV0759,Mumbai Branch,Mumbai,Sports & Fitness,18578.6,1,18578.6,2026-11-21,Cash
+INV0760,Hyderabad Branch,Hyderabad,Sports & Fitness,3552.05,1,3552.05,2026-05-13,Cash
+INV0761,Pune Branch,Pune,Groceries,4941.47,10,49414.7,2026-08-07,Cash
+INV0762,Mumbai Branch,Mumbai,Electronics,25057.42,2,50114.84,2026-02-24,UPI
+INV0763,Mumbai Branch,Mumbai,Electronics,7358.56,3,22075.68,2026-12-04,Credit Card
+INV0764,Mumbai Branch,Mumbai,Electronics,19252.83,1,19252.83,2026-08-06,Debit Card
+INV0765,Chennai Branch,Chennai,Electronics,5134.35,1,5134.35,2026-10-05,Credit Card
+INV0766,Mumbai Branch,Mumbai,Electronics,59420.21,1,59420.21,2026-08-08,UPI
+INV0767,Mumbai Branch,Mumbai,Sports & Fitness,10397.29,1,10397.29,2026-05-10,Debit Card
+INV0768,Mumbai Branch,Mumbai,Electronics,25804.41,2,51608.82,2026-05-05,Cash
+INV0769,Mumbai Branch,Mumbai,Electronics,49924.08,1,49924.08,2026-09-13,UPI
+INV0770,Pune Branch,Pune,Beauty & Personal Care,5082.11,5,25410.55,2026-11-10,UPI
+INV0771,Delhi Branch,Delhi,Home Appliances,47053.73,2,94107.46,2026-02-16,Credit Card
+INV0772,Hyderabad Branch,Hyderabad,Beauty & Personal Care,7693.96,5,38469.8,2026-11-05,UPI
+INV0773,Pune Branch,Pune,Home Appliances,34353.51,2,68707.02,2026-10-30,UPI
+INV0774,Bangalore Branch,Bangalore,Sports & Fitness,16410.97,2,32821.94,2026-02-09,Credit Card
+INV0775,Mumbai Branch,Mumbai,Home Appliances,39828.83,2,79657.66,2026-02-09,UPI
+INV0776,Bangalore Branch,Bangalore,Clothing,6048.25,1,6048.25,2026-09-11,Debit Card
+INV0777,Pune Branch,Pune,Home Appliances,35518.46,3,106555.38,2026-11-04,Cash
+INV0778,Mumbai Branch,Mumbai,Clothing,1215.63,4,4862.52,2026-05-24,Debit Card
+INV0779,Bangalore Branch,Bangalore,Groceries,3802.2,2,7604.4,2026-08-22,Credit Card
+INV0780,Bangalore Branch,Bangalore,Clothing,11553.45,3,34660.35,2026-12-31,Credit Card
+INV0781,Delhi Branch,Delhi,Electronics,7105.13,2,14210.26,2026-04-28,Credit Card
+INV0782,Chennai Branch,Chennai,Beauty & Personal Care,6705.31,2,13410.62,2026-03-24,Credit Card
+INV0783,Hyderabad Branch,Hyderabad,Groceries,4668.25,2,9336.5,2026-12-28,Cash
+INV0784,Pune Branch,Pune,Electronics,17583.22,3,52749.66,2026-04-13,Debit Card
+INV0785,Chennai Branch,Chennai,Groceries,2647.82,3,7943.46,2026-06-22,Credit Card
+INV0786,Delhi Branch,Delhi,Beauty & Personal Care,7430.08,3,22290.24,2026-06-11,Cash
+INV0787,Bangalore Branch,Bangalore,Groceries,4803.12,3,14409.36,2026-07-10,Cash
+INV0788,Delhi Branch,Delhi,Home Appliances,7266.24,2,14532.48,2026-04-09,Cash
+INV0789,Bangalore Branch,Bangalore,Beauty & Personal Care,2857.13,1,2857.13,2026-09-05,UPI
+INV0790,Pune Branch,Pune,Electronics,52602.33,2,105204.66,2026-09-10,Debit Card
+INV0791,Mumbai Branch,Mumbai,Beauty & Personal Care,1850.31,3,5550.93,2026-03-15,UPI
+INV0792,Hyderabad Branch,Hyderabad,Groceries,1657.61,5,8288.05,2026-06-25,Credit Card
+INV0793,Delhi Branch,Delhi,Electronics,2528.2,2,5056.4,2026-01-21,UPI
+INV0794,Mumbai Branch,Mumbai,Home Appliances,8522.56,1,8522.56,2026-03-22,UPI
+INV0795,Mumbai Branch,Mumbai,Sports & Fitness,11377.89,2,22755.78,2026-12-27,UPI
+INV0796,Delhi Branch,Delhi,Groceries,3282.8,8,26262.4,2026-07-04,Cash
+INV0797,Mumbai Branch,Mumbai,Clothing,7892.27,2,15784.54,2026-08-16,Cash
+INV0798,Mumbai Branch,Mumbai,Groceries,3902.88,2,7805.76,2026-11-21,Debit Card
+INV0799,Pune Branch,Pune,Clothing,5158.79,5,25793.95,2026-09-18,Cash
+INV0800,Pune Branch,Pune,Home Appliances,14401.05,3,43203.15,2026-10-17,UPI
+INV0801,Bangalore Branch,Bangalore,Home Appliances,1763.45,3,5290.35,2026-09-17,UPI
+INV0802,Delhi Branch,Delhi,Home Appliances,11124.86,3,33374.58,2026-07-02,Debit Card
+INV0803,Chennai Branch,Chennai,Electronics,23979.18,3,71937.54,2026-08-19,Credit Card
+INV0804,Pune Branch,Pune,Home Appliances,9732.14,3,29196.42,2026-04-16,Cash
+INV0805,Mumbai Branch,Mumbai,Home Appliances,1987.08,2,3974.16,2026-11-22,Credit Card
+INV0806,Mumbai Branch,Mumbai,Home Appliances,8714.93,1,8714.93,2026-03-07,Credit Card
+INV0807,Pune Branch,Pune,Electronics,50224.59,2,100449.18,2026-11-19,Debit Card
+INV0808,Mumbai Branch,Mumbai,Clothing,7666.15,2,15332.3,2026-11-17,UPI
+INV0809,Hyderabad Branch,Hyderabad,Groceries,4681.63,8,37453.04,2026-02-21,Credit Card
+INV0810,Chennai Branch,Chennai,Electronics,60024.09,2,120048.18,2026-09-17,Credit Card
+INV0811,Mumbai Branch,Mumbai,Groceries,2860.39,10,28603.9,2026-12-28,Credit Card
+INV0812,Mumbai Branch,Mumbai,Clothing,1909.41,3,5728.23,2026-07-28,UPI
+INV0813,Chennai Branch,Chennai,Beauty & Personal Care,4556.17,3,13668.51,2026-05-05,Cash
+INV0814,Pune Branch,Pune,Groceries,354.9,10,3549.0,2026-11-17,Credit Card
+INV0815,Mumbai Branch,Mumbai,Beauty & Personal Care,3503.99,3,10511.97,2026-07-07,Credit Card
+INV0816,Chennai Branch,Chennai,Clothing,4866.03,2,9732.06,2026-02-14,Cash
+INV0817,Chennai Branch,Chennai,Beauty & Personal Care,3479.73,2,6959.46,2026-04-01,Credit Card
+INV0818,Hyderabad Branch,Hyderabad,Clothing,3573.96,5,17869.8,2026-09-07,Cash
+INV0819,Pune Branch,Pune,Clothing,8324.22,4,33296.88,2026-06-16,Debit Card
+INV0820,Delhi Branch,Delhi,Home Appliances,42206.28,1,42206.28,2026-03-21,UPI
+INV0821,Mumbai Branch,Mumbai,Sports & Fitness,15439.78,2,30879.56,2026-10-19,Credit Card
+INV0822,Pune Branch,Pune,Clothing,7644.7,2,15289.4,2026-02-14,Cash
+INV0823,Delhi Branch,Delhi,Clothing,6598.63,4,26394.52,2026-03-21,Credit Card
+INV0824,Pune Branch,Pune,Home Appliances,2523.12,1,2523.12,2026-06-19,UPI
+INV0825,Bangalore Branch,Bangalore,Beauty & Personal Care,5811.18,4,23244.72,2026-01-15,UPI
+INV0826,Mumbai Branch,Mumbai,Electronics,41237.73,3,123713.19,2026-05-22,UPI
+INV0827,Pune Branch,Pune,Clothing,3467.67,2,6935.34,2026-11-29,Debit Card
+INV0828,Delhi Branch,Delhi,Clothing,4135.75,1,4135.75,2026-12-10,Credit Card
+INV0829,Bangalore Branch,Bangalore,Sports & Fitness,18731.45,3,56194.35,2026-11-15,UPI
+INV0830,Delhi Branch,Delhi,Clothing,7605.04,2,15210.08,2026-04-29,UPI
+INV0831,Pune Branch,Pune,Clothing,5868.18,5,29340.9,2026-01-24,Credit Card
+INV0832,Hyderabad Branch,Hyderabad,Sports & Fitness,12532.16,4,50128.64,2026-10-25,Debit Card
+INV0833,Delhi Branch,Delhi,Clothing,5140.79,5,25703.95,2026-05-17,Debit Card
+INV0834,Pune Branch,Pune,Electronics,35687.52,2,71375.04,2026-10-01,UPI
+INV0835,Pune Branch,Pune,Electronics,22340.95,3,67022.85,2026-02-13,Cash
+INV0836,Hyderabad Branch,Hyderabad,Electronics,33437.11,1,33437.11,2026-09-01,Cash
+INV0837,Bangalore Branch,Bangalore,Electronics,51670.94,1,51670.94,2026-08-03,Cash
+INV0838,Chennai Branch,Chennai,Clothing,767.32,1,767.32,2026-12-02,Credit Card
+INV0839,Hyderabad Branch,Hyderabad,Beauty & Personal Care,6380.72,4,25522.88,2026-02-07,Debit Card
+INV0840,Hyderabad Branch,Hyderabad,Beauty & Personal Care,2335.54,3,7006.62,2026-05-29,Credit Card
+INV0841,Mumbai Branch,Mumbai,Electronics,51445.94,1,51445.94,2026-12-28,UPI
+INV0842,Bangalore Branch,Bangalore,Clothing,7819.89,2,15639.78,2026-05-23,Debit Card
+INV0843,Hyderabad Branch,Hyderabad,Electronics,49225.0,2,98450.0,2026-08-29,Debit Card
+INV0844,Hyderabad Branch,Hyderabad,Sports & Fitness,12280.14,1,12280.14,2026-02-28,Credit Card
+INV0845,Mumbai Branch,Mumbai,Electronics,71965.36,2,143930.72,2026-09-23,Credit Card
+INV0846,Chennai Branch,Chennai,Home Appliances,25908.86,2,51817.72,2026-04-11,Cash
+INV0847,Delhi Branch,Delhi,Groceries,3674.98,3,11024.94,2026-07-28,Credit Card
+INV0848,Pune Branch,Pune,Home Appliances,35567.02,1,35567.02,2026-11-18,Credit Card
+INV0849,Mumbai Branch,Mumbai,Groceries,1219.52,4,4878.08,2026-08-30,UPI
+INV0850,Chennai Branch,Chennai,Beauty & Personal Care,2338.12,3,7014.36,2026-06-23,Debit Card
+INV0851,Mumbai Branch,Mumbai,Groceries,2148.88,3,6446.64,2026-03-11,Debit Card
+INV0852,Mumbai Branch,Mumbai,Sports & Fitness,5770.65,2,11541.3,2026-05-05,Debit Card
+INV0853,Bangalore Branch,Bangalore,Clothing,4590.89,3,13772.67,2026-11-06,UPI
+INV0854,Chennai Branch,Chennai,Beauty & Personal Care,3188.59,1,3188.59,2026-03-20,Debit Card
+INV0855,Mumbai Branch,Mumbai,Beauty & Personal Care,4870.53,3,14611.59,2026-08-28,UPI
+INV0856,Hyderabad Branch,Hyderabad,Sports & Fitness,4631.83,1,4631.83,2026-06-27,UPI
+INV0857,Bangalore Branch,Bangalore,Groceries,4031.24,2,8062.48,2026-04-28,Cash
+INV0858,Bangalore Branch,Bangalore,Groceries,2215.8,3,6647.4,2026-09-19,Debit Card
+INV0859,Delhi Branch,Delhi,Groceries,3545.91,3,10637.73,2026-05-13,UPI
+INV0860,Hyderabad Branch,Hyderabad,Groceries,453.14,1,453.14,2026-04-15,Debit Card
+INV0861,Bangalore Branch,Bangalore,Home Appliances,24028.3,3,72084.9,2026-07-13,Debit Card
+INV0862,Bangalore Branch,Bangalore,Sports & Fitness,855.92,2,1711.84,2026-10-04,Cash
+INV0863,Bangalore Branch,Bangalore,Sports & Fitness,13615.43,4,54461.72,2026-11-12,Debit Card
+INV0864,Hyderabad Branch,Hyderabad,Clothing,4321.41,5,21607.05,2026-08-18,Credit Card
+INV0865,Mumbai Branch,Mumbai,Home Appliances,47513.39,3,142540.17,2026-08-30,Debit Card
+INV0866,Chennai Branch,Chennai,Beauty & Personal Care,2660.58,5,13302.9,2026-10-15,Credit Card
+INV0867,Bangalore Branch,Bangalore,Sports & Fitness,11406.98,1,11406.98,2026-04-09,Debit Card
+INV0868,Bangalore Branch,Bangalore,Electronics,19898.16,2,39796.32,2026-04-02,Cash
+INV0869,Mumbai Branch,Mumbai,Clothing,7555.32,4,30221.28,2026-06-26,UPI
+INV0870,Mumbai Branch,Mumbai,Beauty & Personal Care,3789.63,3,11368.89,2026-08-19,Credit Card
+INV0871,Bangalore Branch,Bangalore,Groceries,1884.61,1,1884.61,2026-08-24,Cash
+INV0872,Mumbai Branch,Mumbai,Clothing,2683.17,3,8049.51,2026-02-26,Debit Card
+INV0873,Chennai Branch,Chennai,Sports & Fitness,2496.97,4,9987.88,2026-10-12,Credit Card
+INV0874,Delhi Branch,Delhi,Sports & Fitness,2661.62,4,10646.48,2026-05-13,Credit Card
+INV0875,Pune Branch,Pune,Sports & Fitness,19981.09,2,39962.18,2026-11-17,Credit Card
+INV0876,Chennai Branch,Chennai,Beauty & Personal Care,3357.25,2,6714.5,2026-09-22,Credit Card
+INV0877,Delhi Branch,Delhi,Groceries,59.55,4,238.2,2026-12-25,Credit Card
+INV0878,Delhi Branch,Delhi,Groceries,4767.0,3,14301.0,2026-08-19,Debit Card
+INV0879,Pune Branch,Pune,Clothing,533.77,2,1067.54,2026-07-12,Cash
+INV0880,Pune Branch,Pune,Clothing,5197.46,2,10394.92,2026-03-10,Credit Card
+INV0881,Hyderabad Branch,Hyderabad,Clothing,8694.49,3,26083.47,2026-05-26,Credit Card
+INV0882,Pune Branch,Pune,Home Appliances,45815.36,1,45815.36,2026-11-10,Credit Card
+INV0883,Chennai Branch,Chennai,Groceries,3578.79,3,10736.37,2026-05-20,Cash
+INV0884,Hyderabad Branch,Hyderabad,Beauty & Personal Care,3762.64,2,7525.28,2026-01-20,Debit Card
+INV0885,Mumbai Branch,Mumbai,Groceries,4873.49,2,9746.98,2026-03-31,Cash
+INV0886,Delhi Branch,Delhi,Groceries,244.63,9,2201.67,2026-08-06,Credit Card
+INV0887,Delhi Branch,Delhi,Electronics,74027.4,3,222082.2,2026-08-18,Credit Card
+INV0888,Mumbai Branch,Mumbai,Electronics,63824.85,3,191474.55,2026-12-26,UPI
+INV0889,Mumbai Branch,Mumbai,Beauty & Personal Care,7438.55,3,22315.65,2026-12-07,Credit Card
+INV0890,Pune Branch,Pune,Clothing,3280.84,1,3280.84,2026-07-13,Credit Card
+INV0891,Delhi Branch,Delhi,Groceries,755.17,10,7551.7,2026-07-22,Credit Card
+INV0892,Chennai Branch,Chennai,Beauty & Personal Care,5340.19,3,16020.57,2026-10-20,UPI
+INV0893,Delhi Branch,Delhi,Clothing,6335.56,4,25342.24,2026-01-18,Cash
+INV0894,Mumbai Branch,Mumbai,Electronics,39619.06,2,79238.12,2026-08-06,Cash
+INV0895,Bangalore Branch,Bangalore,Groceries,4626.86,5,23134.3,2026-06-23,UPI
+INV0896,Chennai Branch,Chennai,Electronics,46810.0,2,93620.0,2026-10-13,Credit Card
+INV0897,Delhi Branch,Delhi,Home Appliances,16242.13,1,16242.13,2026-10-20,UPI
+INV0898,Mumbai Branch,Mumbai,Groceries,2030.33,6,12181.98,2026-08-28,Credit Card
+INV0899,Mumbai Branch,Mumbai,Electronics,10705.39,3,32116.17,2026-08-28,Cash
+INV0900,Hyderabad Branch,Hyderabad,Electronics,15069.7,1,15069.7,2026-09-10,Debit Card
+INV0901,Hyderabad Branch,Hyderabad,Home Appliances,8024.15,1,8024.15,2026-07-31,Debit Card
+INV0902,Delhi Branch,Delhi,Electronics,60923.62,3,182770.86,2026-03-25,UPI
+INV0903,Mumbai Branch,Mumbai,Beauty & Personal Care,5668.5,3,17005.5,2026-04-14,Credit Card
+INV0904,Hyderabad Branch,Hyderabad,Electronics,40151.6,3,120454.8,2026-09-28,UPI
+INV0905,Chennai Branch,Chennai,Home Appliances,19344.02,2,38688.04,2026-08-14,Debit Card
+INV0906,Pune Branch,Pune,Clothing,8121.38,4,32485.52,2026-03-28,Cash
+INV0907,Hyderabad Branch,Hyderabad,Clothing,9810.99,5,49054.95,2026-11-17,UPI
+INV0908,Mumbai Branch,Mumbai,Electronics,66187.5,2,132375.0,2026-12-24,Credit Card
+INV0909,Delhi Branch,Delhi,Beauty & Personal Care,4421.43,2,8842.86,2026-08-17,UPI
+INV0910,Delhi Branch,Delhi,Sports & Fitness,16451.74,3,49355.22,2026-03-25,Cash
+INV0911,Bangalore Branch,Bangalore,Electronics,38738.9,1,38738.9,2026-12-09,UPI
+INV0912,Bangalore Branch,Bangalore,Electronics,36010.13,2,72020.26,2026-03-28,Credit Card
+INV0913,Chennai Branch,Chennai,Sports & Fitness,17349.01,3,52047.03,2026-06-07,Cash
+INV0914,Chennai Branch,Chennai,Clothing,4820.58,1,4820.58,2026-11-10,Cash
+INV0915,Chennai Branch,Chennai,Electronics,30176.72,3,90530.16,2026-07-10,Debit Card
+INV0916,Chennai Branch,Chennai,Electronics,23424.42,2,46848.84,2026-03-30,Credit Card
+INV0917,Mumbai Branch,Mumbai,Home Appliances,26416.38,1,26416.38,2026-01-30,Credit Card
+INV0918,Mumbai Branch,Mumbai,Home Appliances,27697.65,1,27697.65,2026-05-12,UPI
+INV0919,Delhi Branch,Delhi,Home Appliances,33362.6,3,100087.8,2026-09-03,Credit Card
+INV0920,Hyderabad Branch,Hyderabad,Sports & Fitness,8780.9,4,35123.6,2026-09-18,UPI
+INV0921,Mumbai Branch,Mumbai,Clothing,2848.7,4,11394.8,2026-03-23,UPI
+INV0922,Bangalore Branch,Bangalore,Groceries,4340.87,5,21704.35,2026-02-27,Credit Card
+INV0923,Pune Branch,Pune,Clothing,4348.21,4,17392.84,2026-09-14,Credit Card
+INV0924,Hyderabad Branch,Hyderabad,Groceries,4618.57,5,23092.85,2026-02-28,Cash
+INV0925,Mumbai Branch,Mumbai,Groceries,1076.4,4,4305.6,2026-01-24,Credit Card
+INV0926,Delhi Branch,Delhi,Electronics,42356.26,1,42356.26,2026-06-27,Cash
+INV0927,Mumbai Branch,Mumbai,Groceries,2706.24,3,8118.72,2026-07-28,Cash
+INV0928,Bangalore Branch,Bangalore,Home Appliances,41603.74,3,124811.22,2026-03-30,Cash
+INV0929,Pune Branch,Pune,Electronics,11102.77,2,22205.54,2026-03-19,Debit Card
+INV0930,Bangalore Branch,Bangalore,Clothing,10946.26,1,10946.26,2026-03-28,Cash
+INV0931,Delhi Branch,Delhi,Home Appliances,27039.98,3,81119.94,2026-05-06,Cash
+INV0932,Delhi Branch,Delhi,Home Appliances,29719.36,1,29719.36,2026-01-04,Credit Card
+INV0933,Hyderabad Branch,Hyderabad,Beauty & Personal Care,4130.31,3,12390.93,2026-01-05,Cash
+INV0934,Bangalore Branch,Bangalore,Beauty & Personal Care,384.6,1,384.6,2026-05-16,UPI
+INV0935,Bangalore Branch,Bangalore,Home Appliances,25357.44,2,50714.88,2026-01-08,Cash
+INV0936,Mumbai Branch,Mumbai,Electronics,20355.38,2,40710.76,2026-04-27,Debit Card
+INV0937,Chennai Branch,Chennai,Clothing,4309.45,5,21547.25,2026-08-01,Debit Card
+INV0938,Mumbai Branch,Mumbai,Home Appliances,32805.98,3,98417.94,2026-01-12,Credit Card
+INV0939,Chennai Branch,Chennai,Groceries,2513.6,9,22622.4,2026-08-14,Credit Card
+INV0940,Mumbai Branch,Mumbai,Electronics,7716.79,1,7716.79,2026-08-15,Credit Card
+INV0941,Delhi Branch,Delhi,Groceries,411.55,1,411.55,2026-07-29,UPI
+INV0942,Bangalore Branch,Bangalore,Clothing,2472.2,5,12361.0,2026-08-17,Credit Card
+INV0943,Mumbai Branch,Mumbai,Groceries,994.88,10,9948.8,2026-10-23,UPI
+INV0944,Hyderabad Branch,Hyderabad,Electronics,45935.92,1,45935.92,2026-01-26,Credit Card
+INV0945,Hyderabad Branch,Hyderabad,Beauty & Personal Care,1504.73,1,1504.73,2026-03-03,Credit Card
+INV0946,Delhi Branch,Delhi,Sports & Fitness,17669.87,3,53009.61,2026-04-26,Debit Card
+INV0947,Pune Branch,Pune,Electronics,16364.24,1,16364.24,2026-09-09,Debit Card
+INV0948,Bangalore Branch,Bangalore,Sports & Fitness,2095.29,1,2095.29,2026-11-15,UPI
+INV0949,Bangalore Branch,Bangalore,Electronics,65780.35,3,197341.05,2026-12-02,UPI
+INV0950,Delhi Branch,Delhi,Sports & Fitness,6117.95,2,12235.9,2026-08-01,UPI
+INV0951,Hyderabad Branch,Hyderabad,Sports & Fitness,8680.83,1,8680.83,2026-05-30,Credit Card
+INV0952,Delhi Branch,Delhi,Electronics,71959.76,2,143919.52,2026-05-31,UPI
+INV0953,Delhi Branch,Delhi,Beauty & Personal Care,7560.52,2,15121.04,2026-01-22,Credit Card
+INV0954,Mumbai Branch,Mumbai,Sports & Fitness,14383.86,3,43151.58,2026-06-19,UPI
+INV0955,Chennai Branch,Chennai,Sports & Fitness,1658.1,4,6632.4,2026-07-07,Debit Card
+INV0956,Chennai Branch,Chennai,Sports & Fitness,11988.8,1,11988.8,2026-03-18,Debit Card
+INV0957,Bangalore Branch,Bangalore,Clothing,11872.21,4,47488.84,2026-10-08,Credit Card
+INV0958,Hyderabad Branch,Hyderabad,Electronics,71061.18,3,213183.54,2026-10-24,Credit Card
+INV0959,Hyderabad Branch,Hyderabad,Beauty & Personal Care,937.42,3,2812.26,2026-04-21,Credit Card
+INV0960,Hyderabad Branch,Hyderabad,Home Appliances,20402.4,3,61207.2,2026-11-30,UPI
+INV0961,Hyderabad Branch,Hyderabad,Home Appliances,16461.3,2,32922.6,2026-02-09,UPI
+INV0962,Hyderabad Branch,Hyderabad,Groceries,692.15,5,3460.75,2026-11-29,UPI
+INV0963,Mumbai Branch,Mumbai,Clothing,8429.14,5,42145.7,2026-10-08,Credit Card
+INV0964,Mumbai Branch,Mumbai,Electronics,21119.55,2,42239.1,2026-03-23,Cash
+INV0965,Chennai Branch,Chennai,Beauty & Personal Care,2824.44,5,14122.2,2026-08-26,Credit Card
+INV0966,Hyderabad Branch,Hyderabad,Electronics,7504.63,3,22513.89,2026-04-24,Cash
+INV0967,Chennai Branch,Chennai,Home Appliances,25400.41,3,76201.23,2026-10-19,Debit Card
+INV0968,Mumbai Branch,Mumbai,Beauty & Personal Care,1349.53,2,2699.06,2026-02-28,Credit Card
+INV0969,Hyderabad Branch,Hyderabad,Clothing,5355.46,2,10710.92,2026-03-31,Cash
+INV0970,Mumbai Branch,Mumbai,Clothing,1977.1,5,9885.5,2026-04-23,Credit Card
+INV0971,Delhi Branch,Delhi,Groceries,4771.56,7,33400.92,2026-03-14,Debit Card
+INV0972,Mumbai Branch,Mumbai,Sports & Fitness,3156.16,2,6312.32,2026-05-02,Cash
+INV0973,Mumbai Branch,Mumbai,Beauty & Personal Care,4222.91,2,8445.82,2026-08-08,Credit Card
+INV0974,Chennai Branch,Chennai,Groceries,1025.05,8,8200.4,2026-08-20,UPI
+INV0975,Delhi Branch,Delhi,Electronics,6466.05,1,6466.05,2026-07-22,Debit Card
+INV0976,Pune Branch,Pune,Electronics,15811.3,1,15811.3,2026-03-11,UPI
+INV0977,Hyderabad Branch,Hyderabad,Clothing,940.86,4,3763.44,2026-03-15,Cash
+INV0978,Hyderabad Branch,Hyderabad,Sports & Fitness,3046.13,2,6092.26,2026-12-02,UPI
+INV0979,Hyderabad Branch,Hyderabad,Beauty & Personal Care,3998.52,4,15994.08,2026-04-02,UPI
+INV0980,Mumbai Branch,Mumbai,Electronics,49164.71,2,98329.42,2026-02-07,UPI
+INV0981,Chennai Branch,Chennai,Beauty & Personal Care,789.98,5,3949.9,2026-06-15,Cash
+INV0982,Bangalore Branch,Bangalore,Groceries,2233.04,6,13398.24,2026-01-03,Credit Card
+INV0983,Bangalore Branch,Bangalore,Beauty & Personal Care,4691.85,5,23459.25,2026-05-06,Credit Card
+INV0984,Hyderabad Branch,Hyderabad,Groceries,1209.42,9,10884.78,2026-11-09,Cash
+INV0985,Mumbai Branch,Mumbai,Home Appliances,19231.84,1,19231.84,2026-04-08,Credit Card
+INV0986,Chennai Branch,Chennai,Sports & Fitness,1715.15,4,6860.6,2026-09-14,Credit Card
+INV0987,Delhi Branch,Delhi,Groceries,1139.65,8,9117.2,2026-06-28,Credit Card
+INV0988,Mumbai Branch,Mumbai,Home Appliances,23870.89,1,23870.89,2026-05-10,Cash
+INV0989,Delhi Branch,Delhi,Sports & Fitness,19811.71,1,19811.71,2026-08-30,Credit Card
+INV0990,Bangalore Branch,Bangalore,Electronics,74722.87,1,74722.87,2026-08-06,Cash
+INV0991,Pune Branch,Pune,Electronics,73487.93,1,73487.93,2026-04-27,UPI
+INV0992,Bangalore Branch,Bangalore,Home Appliances,21731.23,2,43462.46,2026-03-23,UPI
+INV0993,Bangalore Branch,Bangalore,Groceries,449.37,10,4493.7,2026-12-01,Debit Card
+INV0994,Mumbai Branch,Mumbai,Electronics,24809.15,2,49618.3,2026-03-03,Cash
+INV0995,Chennai Branch,Chennai,Clothing,3081.26,1,3081.26,2026-12-17,Cash
+INV0996,Hyderabad Branch,Hyderabad,Beauty & Personal Care,211.6,3,634.8,2026-06-21,Debit Card
+INV0997,Pune Branch,Pune,Groceries,521.41,3,1564.23,2026-12-30,Cash
+INV0998,Mumbai Branch,Mumbai,Groceries,2293.3,9,20639.7,2026-05-09,Credit Card
+INV0999,Chennai Branch,Chennai,Beauty & Personal Care,2783.33,1,2783.33,2026-07-26,UPI
+INV1000,Delhi Branch,Delhi,Clothing,2410.14,4,9640.56,2026-08-13,Credit Card
